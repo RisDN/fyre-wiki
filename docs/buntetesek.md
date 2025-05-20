@@ -38,5 +38,6 @@ sidebar_position: 5
 |         Szerver szidás      |     30 nap      |     45 nap      |     60 nap      |      90 nap       |               120 nap               ||
 |        Team/Crossteam       |      1 nap      |      3 nap      |      7 nap      |                          14 nap                        |||
 |      Karaktermegosztás      |     20 nap      |     30 nap      |     45 nap      |                           60 nap                       |||
+|           Killfarm          |      8 nap      |     12 nap      |     16 nap      |                           22 nap                       |||
 
 > *=kliensban (CBan)
