@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 description: A szerver használatának jogi feltételei és a felhasználói kötelezettségek részletezése.
 ---
 
