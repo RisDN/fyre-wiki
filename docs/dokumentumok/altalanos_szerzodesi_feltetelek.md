@@ -28,14 +28,7 @@ Adószám: 71654915-1-36\
 Nyilvántartási szám: 52816710\
 Székhely: Magyarország, 5000 Szolnok, Szellő utca 17.
 
-mint **Digitális termékek és VIP jogok szolgáltatója**,
-
-**Sajti Zsanett Zsófia EV.**\
-Adószám: 90686298142\
-Nyilvántartási szám: 60008516\
-Székhely: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
-
-mint **Digitális kupon kódok (azonnali aktiválás) szolgáltatója**, 
+mint **Digitális termékek és VIP jogok szolgáltatója**, 
 
 **Berta Bianka EV.**\
 Adószám: 90686621142\
