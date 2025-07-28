@@ -5,30 +5,52 @@ description: A szerver tulajdonosának és üzemeltetőjének hivatalos adatai �
 
 # 🌺 Impresszum
 
-Weboldal és online játék keretrendszer üzemeltetője:
-Cégnév: Sebestyén Ádám EV.
-Adószám: 59797779-1-33
-Nyilvántartási szám: 57843410
-Székhely: 2118 DÁNY FŐ UTCA 87
-E-mail: e-mail@fyremc.hu
-Internet: www.fyremc.hu
+**Weboldal és online játék keretrendszer üzemeltetője:**  
+**Cégnév:** Sebestyén Ádám EV.  
+**Adószám:** 59797779-1-33  
+**Nyilvántartási szám:** 57843410  
+**Székhely:** 2118 Dány, Fő utca 87.  
+**E-mail cím:** [e-mail@fyremc.hu](mailto:e-mail@fyremc.hu)  
+**Internet cím:** [www.fyremc.hu](http://www.fyremc.hu)
 
-Tárhelyszolgáltató: RACKFOREST ZRT. (1132 Budapest, Victor Hugo utca 11. 5. em. B05001., +36-1-211-0044, info@rackforest.com)
-Online vitarendezési platform:
-https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=HU
+**Tárhelyszolgáltató:**
+**Cégnév:** RACKFOREST ZRT.  
+**Székhely:** 1132 Budapest, Victor Hugo utca 11. 5. em. B05001.  
+**Telefonszám:** +36-1-211-0044  
+**E-mail cím:** [info@rackforest.com](mailto:info@rackforest.com)
 
-Virtuális játék kiegészítő csomagok üzemeltetője:
-Név: Papasvili György Armen EV.
-Székhely / levelezési cím: 5600 Békéscsaba, Pitypang utca 15.
-Nyilvántartásba bejegyző hatóság: NAV Békés Vármegyei Adó- és Vámigazgatósága
-Nyilvántartási szám: 57334558
-Adószám: 59315784-1-24
+**Online vitarendezési platform:**
+[https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=HU](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=HU)
+
+**Virtuális játék kiegészítő csomagok üzemeltetője:**  
+Név: Papasvili György Armen EV.  
+Székhely / levelezési cím: 5600 Békéscsaba, Pitypang utca 15.  
+Nyilvántartásba bejegyző hatóság: NAV Békés Vármegyei Adó- és Vámigazgatósága  
+Nyilvántartási szám: 57334558  
+Adószám: 59315784-1-24  
 Kamara: Békés Megyei Kereskedelmi és Iparkamara
 
-Digitális termékek és VIP jogok üzemeltetője:
-Név: Csontos Gábor EV.
-Székhely / levelezési cím: 5000 Szolnok, Szellő utca 17.
-Nyilvántartásba bejegyző hatóság: NAV Jász-Nagykun-Szolnok Vármegyei Adó- és Vámigazgatósága
-Nyilvántartási szám: 52816710
-Adószám: 71654915-1-36
+**Digitális termékek és VIP jogok üzemeltetője:**
+Név: Csontos Gábor EV.  
+Székhely / levelezési cím: 5000 Szolnok, Szellő utca 17.  
+Nyilvántartásba bejegyző hatóság: NAV Jász-Nagykun-Szolnok Vármegyei Adó- és Vámigazgatósága  
+Nyilvántartási szám: 52816710  
+Adószám: 71654915-1-36  
 Kamara: Jász-Nagykun-Szolnok Megyei Kereskedelmi és Iparkamara
+
+**Digitális kupon kódok (azonnali aktiválás) szolgáltatója:**  
+Név: Sajti Zsanett Zsófia EV.  
+Székhely / levelezési cím: 1081 Budapest, Alföldi utca 18.  
+Nyilvántartásba bejegyző hatóság: NAV Budapest Fővárosi Adó- és Vámigazgatósága  
+Nyilvántartási szám: 60008516  
+Adószám: 90686298-1-42  
+Kamara: Budapest Fővárosi Kereskedelmi és Iparkamara
+
+**Kiegészítő érme csomagok szolgáltatója:**  
+Név: Berta Bianka EV.  
+Székhely / levelezési cím: 1081 Budapest, Alföldi utca 18.  
+Nyilvántartásba bejegyző hatóság: NAV Budapest Fővárosi Adó- és Vámigazgatósága  
+Nyilvántartási szám: 60009782  
+Adószám: 90686621-1-42  
+Kamara: Budapest Fővárosi Kereskedelmi és Iparkamara
+
