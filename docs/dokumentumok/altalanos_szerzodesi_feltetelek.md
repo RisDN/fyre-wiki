@@ -32,7 +32,7 @@ mint **Digitális termékek és VIP jogok szolgáltatója**,
 
 **Berta Bianka EV.**\
 Adószám: 90686621142\
-Nyilvántartási szém: 60009782\
+Nyilvántartási szám: 60009782\
 Székhely: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
 
 és mint **Kiegészítő érme csomagok szolgáltatója**.
