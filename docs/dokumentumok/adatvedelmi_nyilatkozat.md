@@ -22,6 +22,18 @@ Az adatfeldolgozó székhelye: 5000 Szolnok, Szellő utca 17.
 Nyilvántartási szám: 52816710
 Adószám: 71654915-1-36
 
+Kiegészítő érme csomagok üzemeltetője:
+Az adatfeldolgozó megnevezése: Berta Bianka EV.
+Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
+Nyilvántartási szám: 60009782
+Adószám: 90686621-1-42
+
+Digitális kuponkódok (azonnali aktiválással) üzemeltetője:
+Az adatfeldolgozó megnevezése: Sajti Zsanett Zsófia EV.
+Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
+Nyilvántartási szám: 60008516
+Adószám: 90686298-1-42
+
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
 Az adatfeldolgozó székhelye: 5600 Békéscsaba, Pitypang utca 15.
@@ -168,6 +180,14 @@ Adatvédelmi rendelkezések a Sebestyén Ádám EV. partnereiről
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
 Az adatfeldolgozó székhelye: 5600 Békéscsaba, Pitypang utca 15.
+
+Kiegészítő érme csomagok üzemeltetője:
+Az adatfeldozó megnevezése: Berta Bianka EV.
+Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
+
+Digitális kuponkódok (azonnali aktiválással) üzemeltetője:
+Az adatfeldozó megnevezése: Sajti Zsanett Zsófia EV.
+Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
 
 Digitális termékek és VIP jogok szolgáltatója:
 Az adatfeldolgozó megnevezése: Csontos Gábor EV.

@@ -42,7 +42,7 @@ Adószám: 90686621-1-42\
 Nyilvántartási szám: 60009782\
 Székhely: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
 
-és mint **Kiegészítő érme csomagok szolgáltatója**.
+mint **Kiegészítő érme csomagok szolgáltatója**.
 
 másrészről a szolgáltatásainkba (továbbiakban FyreMC.hu) regisztrált vagy regisztrálni kívánó **Fél**,
 
