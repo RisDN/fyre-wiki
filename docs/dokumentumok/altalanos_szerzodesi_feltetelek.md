@@ -3,11 +3,11 @@ sidebar_position: 4
 description: A szerver használatának jogi feltételei és a felhasználói kötelezettségek részletezése.
 ---
 
-# 📋 FyreMC.hu Általános Szerződési Feltételei 
+# 📋 FyreMC.hu Általános Szerződési Feltételei
 
 **Hatályba lépésének időpontja:** 2025. év március hó 15. napján
 
-Amely létrejött, egyrészről a 
+Amely létrejött, egyrészről a
 
 **Sebestyén Ádám EV.**\
 Adószám: 59797779-1-33\
@@ -28,7 +28,14 @@ Adószám: 71654915-1-36\
 Nyilvántartási szám: 52816710\
 Székhely: Magyarország, 5000 Szolnok, Szellő utca 17.
 
-mint **Digitális termékek és VIP jogok szolgáltatója**, 
+mint **Digitális termékek és VIP jogok szolgáltatója**,
+
+**Sajti Zsanett Zsófia EV.**\
+Adószám: 90686298142\
+Nyilvántartási szám: 60008516\
+Székhely: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
+
+mint **Digitális kuponkódok (azonnali aktiválással) szolgáltatója**, és
 
 **Berta Bianka EV.**\
 Adószám: 90686621142\
@@ -37,16 +44,15 @@ Székhely: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
 
 és mint **Kiegészítő érme csomagok szolgáltatója**.
 
+másrészről a szolgáltatásainkba (továbbiakban FyreMC.hu) regisztrált vagy regisztrálni kívánó **Fél**,
 
-másrészről a szolgáltatásainkba (továbbiakban FyreMC.hu) regisztrált vagy regisztrálni kívánó **Fél**, 
-
-mint **Felhasználó**. 
-
+mint **Felhasználó**.
 
 A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Online- és egyéb szolgáltatások használatát az alábbiak szerint határozza meg:
 
 ## 1. A felhasználási feltételek tárgya
-1.1 A felhasználó regisztrációjával vagy bejelentkezésével a FyreMC.hu portáloldalon mindig elfogadja jelen felhasználási feltételeket. Amennyiben nem ért egyet vagy nem fogadja el az alábbiakban foglalt rendelkezéseket, kérjük hogy ne regisztráljon szolgáltatásainkra és/vagy ha már van meglévő felhasználói fiókja azt mihamarabb törölje rendszereinkből. 
+
+1.1 A felhasználó regisztrációjával vagy bejelentkezésével a FyreMC.hu portáloldalon mindig elfogadja jelen felhasználási feltételeket. Amennyiben nem ért egyet vagy nem fogadja el az alábbiakban foglalt rendelkezéseket, kérjük hogy ne regisztráljon szolgáltatásainkra és/vagy ha már van meglévő felhasználói fiókja azt mihamarabb törölje rendszereinkből.
 
 **1.2** Jelen felhasználási feltételek teljes mértékben helyettesítik a FyreMC.hu használati feltételek korábbi változatait.
 
@@ -63,6 +69,7 @@ A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Onl
 **1.8** A felhasználónak a jelen feltételektől eltérő szabályozásai csak akkor érvényesek, ha azok alkalmazásáról a FyreMC.hu előzetesen írásos beleegyezést ad.
 
 ## 2. A szerződés létrejötte
+
 **2.1** A FyreMC.hu által üzemeltetett online játék és egyéb szolgáltatások igénybe vételének előfeltétele a felhasználó regisztrációja.
 
 **2.2** A regisztráció csak természetes személyek számára engedélyezett. Felhasználóként csak egyes személyek engedélyezettek (csoportok, családok, élettársak stb. regisztrációja nem engedélyezett). Amennyiben a felhasználó kiskorú személy, akkor az a regisztráció elküldésével biztosítja a másik szerződő felet törvényes képviselőjének meglévő hatályos beleegyezéséről.
@@ -73,7 +80,7 @@ A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Onl
 
 **2.5** A sikeres regisztrációval a felhasználó egy felhasználói fiókot ("user account") hoz létre, melyet a felhasználó önmaga adminisztrálhat.
 
-**2.6** A felhasználói fiók a FyreMC.hu kifejezett hozzájárulása nélkül nem ruházható át. Azonban az átruházást csak speciális esetekben engedélyezzük. 
+**2.6** A felhasználói fiók a FyreMC.hu kifejezett hozzájárulása nélkül nem ruházható át. Azonban az átruházást csak speciális esetekben engedélyezzük.
 
 **2.7** Nem támasztható igény felhasználói fiók regisztrációjára és aktiválására.
 
@@ -88,6 +95,7 @@ A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Onl
 **2.9.3** Azok a regisztrálók, akik 14-16 éves kör között vannak, egy szülői megerősítésben kell részt vennie. Ilyenkor meg kell adnia a szülő vagy törvényes képviselője e-mail címét, akinek egy megerősítő e-mailt küldünk a regisztrációról. Csak ezt elfogadva lehetséges a regisztráció!
 
 ## 3. Visszavonási eljárás
+
 **3.1** Elállási jog
 
 **3.1.1** Visszavonhatja a szerződését 14 (azaz tizennégy naptári) napon belül, indoklás nélkül, írott formában (például postai úton, vagy e-mailben). A visszavonási időszak az írásbeli visszavonási utasítás kézhezvételekor kezdődik, nem a szerződés befejezése és nem az informáló kötelességünk teljesítése előtt. Ahhoz hogy a visszavonási határidőt tartani lehessen, a visszavonási szándékról való nyilatkozatot időben kell elküldeni. A visszavonási nyilatkozatot postai úton a FyreMC.hu székhelyére (Magyarország, 2118 Dány Fő utca 87.) kell címezni vagy e-mail formájában az email@fyremc.hu címre.
@@ -100,7 +108,8 @@ A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Onl
 
 **3.3.1** A visszavonási joga idő előtt érvénytelenné válik, ha a szerződés mindkét oldalon megkezdődött és teljesítve lett a visszavonási joggal való élés előtt.
 
-## 4. A felhasználó általános kötelezettségei 
+## 4. A felhasználó általános kötelezettségei
+
 **4.1** Felhasználói adatok
 **4.1.1** A felhasználó kötelezi magát arra, hogy haladéktalanul a FyreMC.hu tudomására hozzon minden, a regisztráció keretében megadott adatának, különösen e-mail-címének esetleges jövőbeli változását. A felhasználó köteles felszólításra a FyreMC.hu felé adatainak valódiságát igazolni.
 
@@ -110,7 +119,7 @@ A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Onl
 
 **4.2.2** A "bejelentkezési adatok", ill. "azonosítók" és "jelszavak" kifejezések alatt minden olyan betű- és/vagy karakter- és/vagy számsorozat értendő, melyek a felhasználó azonosítására szolgálnak és kizárják az arra nem jogosult harmadik személyek általi felhasználást. A jelszó nem lehet azonos a játékosnévvel.
 
-**4.2.3** A felhasználó köteles bejelentkezési adatait, és minden azonosítóját és jelszavát védeni arra nem jogosult harmadik személyek általi felhasználás elől. 
+**4.2.3** A felhasználó köteles bejelentkezési adatait, és minden azonosítóját és jelszavát védeni arra nem jogosult harmadik személyek általi felhasználás elől.
 
 **4.2.4** Abban az esetben, ha a felhasználóban felmerül a gyanú, hogy ezen adatait harmadik személyek jogosulatlanul használják vagy felhasználhatták, erről köteles haladéktalanul értesíteni a FyreMC.hu-t, és megváltoztatni adatait, vagy a FyreMC.hu-t azok megváltoztatására kérni. Ebben az esetben, vagy azon esetben, ha a FyreMC.hu rendelkezik visszaélésre utaló adatokkal, a FyreMC.hu jogosult a felhasználó hozzáférését átmenetileg korlátozni. A felhasználó hozzáférésének korlátozása akkor kerül feloldásra, ha megszűnt a gyanú az adatokkal való visszaélésről.
 
@@ -156,7 +165,8 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **4.11** Az online játékban alkalmazott és fizetés ellenében átengedett virtuális javak, illetve a játékban szerzett statisztikai adatok minden jogával kizárólag a FyreMC.hu rendelkezik. Ugyanez vonatkozik a felhasználó által saját kezűleg létrehozott virtuális javakra is. A felhasználó biztosítja a FyreMC.hu számára az ilyen saját kezűleg létrehozott virtuális javakra vonatkozó, helyben, időben és tartalomban nem korlátozott kizárólagos felhasználási jogot. Ebbe a jogba beletartoznak különösen a sokszorosításra, terjesztésre és feldolgozásra vonatkozó jogok. A felhasználó a virtuális javakra vonatkozóan mindössze egy nem kizárólagos, a szerződés időtartamára korlátozott felhasználói jogot kap.
 
-## 5. A kommunikációs lehetőségek 
+## 5. A kommunikációs lehetőségek
+
 **5.1** A FyreMC.hu a felhasználó részére különböző kommunikációs lehetőségeket (különösen a Discord, Facebook, YouTube) biztosít saját tartalmaknak megosztására.
 
 **5.2** A felhasználó kizárólagos felelősséget vállal az általa közzétett tartalmakért és cikkekért, és kötelezi magát, hogy teljes mértékben mentesíti a FyreMC.hu-t harmadik személyek részéről fellépő igények alól. A FyreMC.hu a felhasználók által közzétett tartalmakat kifejezetten nem teszi magáévá. A felhasználó ugyanakkor biztosítja a FyreMC.hu számára a tartós, nem visszavonható és nem kizárólagos jogot az önmaga által közzétett tartalmak és cikkek használatára. A FyreMC.hu felhívja a figyelmet, hogy a FyreMC.hu nem végzi a közzétett tartalmak aktív ellenőrzését. Ezen túl minden felhasználó jogosult a gyaníthatóan törvénybe ütközően közzétett tartalmakat a FyreMC.hu irányába jelenteni. A FyreMC.hu ezt követően a lehető leggyorsabban reagál és amennyiben szükséges, szerkeszti vagy törli a jelentett tartalmat.
@@ -185,7 +195,8 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **5.6** A jelen felhasználási feltételekben leírt egyéb jogokat nem sértve a FyreMC.hu jogosult az itt leírt szabályokat sértő tartalmak és cikkek megváltoztatására, valamint részleges vagy teljes törlésére. Ezen túl a FyreMC.hu jogosult az itt leírt szabályokat megsértő felhasználók átmeneti vagy végérvényes kizárására a FyreMC.hu weboldalak, online játék és egyéb szolgáltatások felhasználásából.
 
-## 6. Egy kötelezettségszegésből adódó következmények 
+## 6. Egy kötelezettségszegésből adódó következmények
+
 **6.1** A FyreMC.hu nem felel azok károkért, melyek egy, a felhasználótól eredő kötelezettségszegésből származnak. Beleértve a játékon belüli virtuális kereskedést, illetve más felhasználók által okozott virtuális károkért.
 
 **6.2** Minden egyéb törvényes vagy szerződéses jogot nem sértve a FyreMC.hu saját belátása szerint a következő intézkedéseket hozhatja, ha egy felhasználó törvénybe ütközően, harmadik személyek jogait sértve, a jelen felhasználási feltételekbe vagy a mindenkor alkalmazott kiegészítő feltételekbe és játékszabályokba ütközően vétkesen cselekszik:
@@ -211,6 +222,7 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 **6.5** Amennyiben a szolgáltató birtokába kerül olyan információ, melyben egy felhasználó nyilatkozik olyan tevékenységéről és/vagy szándékáról, amelyet a FyreMC.hu jelen szabályzata nem engedélyez, úgy a FyreMC.hu üzemeltetői azonnali hatállyal felfüggesztik a játékhoz való csatlakozás jogát, megelőzés végett.
 
 ## 7. Használati díjak
+
 **7.1** Amennyiben nincs kifejezetten máshogy megadva, az online játék és egyéb szolgáltatások használata ingyenes.
 
 **7.2** A felhasználó ugyanakkor egyes szolgáltatásokat, valamint az online játék keretében bizonyos tulajdonságokat ("feature") fizetés ellenében vehet igénybe. A fizetős tulajdonságok fajtájára, különösen az egyes tulajdonságok funkciójára, esetleg a fizetős tulajdonság hozzáférésének időtartamára, a mindenkori fizetendő díj összegére és az online játékkal kapcsolatos elérhető fizetési módokra külön hívják fel a felhasználó figyelmét.
@@ -237,7 +249,8 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **7.9.4** Az account.fyremc.hu weboldalon vásárolható „**Virtuális játék kiegészítő csomagok valamint virtuális prémium rangok**” értékesítését és üzemeltetését **Papasvili György Armen EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
-## 8. Felelősségkorlátozás 
+## 8. Felelősségkorlátozás
+
 **8.1** A felhasználó önmaga és közvetlenül felelős harmadik személyek jogainak önhibából történő megsértéséért velük szemben. A felhasználó kötelezi magát a FyreMC.hu irányába minden olyan kár megtérítésére, melyek a jelen felhasználási feltételekből adódó kötelességek figyelmen kívül hagyásából származnak. A felhasználó mentesíti a FyreMC.hu-t minden igénytől, melyeket más felhasználók vagy harmadik személyek a FyreMC.hu-val szemben támasztanak, melyek jogaiknak a felhasználó által közzétett tartalmak által történő megsértéséből vagy egyéb kötelezettségek megsértéséből származnak. A felhasználó eközben vállalja a FyreMC.hu oldalán fellépő szükséges jogi védelem költségeit is, beleértve az összes bírósági és ügyvédi költséget. Mindez nem érvényes, ha a jogsértés a felhasználón kívül álló okból származik.
 
 **8.2** A FyreMC.hu felelősségét, legyen annak bármilyen jogi alapja, akár szerződéses kötelességszegésből vagy tiltott tevékenységből származik, a következő szabályozás határozza meg:
@@ -252,7 +265,8 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **8.2.5** Az előbbiekben álló felelősségkorlátozások nem érvényesek abban az esetben, ha a FyreMC.hu kinyilvánítja kifejezett garanciavállalását, rosszhiszeműség esetén és az emberi életet, emberi testet vagy az egészséget ért károk esetében, valamint kötelező törvényileg előírt szabályozások esetén.
 
-## 9. A szerződés futamideje, felhasználói fiókok törlése 
+## 9. A szerződés futamideje, felhasználói fiókok törlése
+
 **9.1** Amennyiben a mindenkori online játék vagy a mindenkori szolgáltatás nem határoz meg mást kifejezetten, akkor a FyreMC.hu portál és az online játék és egyéb szolgáltatások használatára vonatkozó szerződés korlátlan időtartamra kerül megkötésre. A szerződés futamideje a FyreMC.hu általi jóváhagyással vagy aktiválással kezdődik.
 
 **9.2** A szerződést mindkét szerződő fél bármikor rendesen, azonnali hatállyal felmondhatja, amennyiben nem egyeztek meg időben korlátozott futamidőben. Ha a szerződő felek időben korlátozott futamidőben egyeztek meg, akkor a szerződés rendes felmondása csak a futamidő lejártával történhet meg. Amennyiben nem kerül sor felmondásra, akkor a mindenkori határidős szerződés automatikusan meghosszabbításra kerül az eredetileg megegyezett futamidővel.
@@ -277,7 +291,8 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **9.5** A FyreMC.hu egyoldalúan, bármilyen indoklással vagy indok nélkül törölheti a felhasználók adatait, statisztikáit vagy megtilthatja a szerverhez való csatlakozás jogát!
 
-## 10. Adatvédelem 
+## 10. Adatvédelem
+
 **10.1** A felhasználó személyes adatai csak a felhasználó beleegyezésével kerülnek felvételre, feldolgozásra vagy felhasználásra vagy ha más törvényi előírás ezt elrendeli vagy megenged.
 
 **10.2** További részletek a FyreMC.hu [Adatvédelmi Nyilatkozata](https://wiki.fyremc.hu/docs/dokumentumok/adatvedelmi_nyilatkozat) alapján kerülnek meghatározásra.
@@ -296,18 +311,20 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **11.6** Amennyiben a jelen felhasználási feltételek bármelyik rendelkezése érvényét veszti és/vagy ellentmond a törvényi szabályozásnak, az nem érinti a felhasználási feltételek egyéb rendelkezéseinek érvényességét. Az érvénytelen rendelkezést a szerződő felek egymással való egyetértésben olyan rendelkezéssel helyettesítik, amely gazdasági értelemben és céljában az érvénytelen rendelkezéshez jogszerűen a leginkább hasonlít. A fenti szabályozás hiányosságok esetén megfelelően érvényes.
 
-**11.7** Amennyiben a FyreMC.hu a jelen dokumentum bármely rendelkezésének érvényesítésétől tartózkodik, az nem értelmezhető joglemondásként, és nem korlátozza a FyreMC.hu azon jogát, hogy a későbbiekben érvényesítse az adott rendelkezést vagy a jelen dokumentum bármely más feltételét. Ha a jelen dokumentum bármely rendelkezése végrehajthatatlannak bizonyul, akkor az adott rendelkezés a jelen dokumentumból leválasztásra kerül, és nem érinti a fennmaradó rendelkezések érvényességét és végrehajthatóságát. 
+**11.7** Amennyiben a FyreMC.hu a jelen dokumentum bármely rendelkezésének érvényesítésétől tartózkodik, az nem értelmezhető joglemondásként, és nem korlátozza a FyreMC.hu azon jogát, hogy a későbbiekben érvényesítse az adott rendelkezést vagy a jelen dokumentum bármely más feltételét. Ha a jelen dokumentum bármely rendelkezése végrehajthatatlannak bizonyul, akkor az adott rendelkezés a jelen dokumentumból leválasztásra kerül, és nem érinti a fennmaradó rendelkezések érvényességét és végrehajthatóságát.
 
 **11.8** A FyreMC.hu minden olyan jogot fenntart magának, amelyet a jelen rendelkezések kifejezetten nem biztosítanak a Felhasználó számára.
 
-## 12. Általános szabályok az online játékunkban 
+## 12. Általános szabályok az online játékunkban
+
 **12.1** Az online szabályzat [FyreMC.hu szabályzat](https://wiki.fyremc.hu/docs/category/-szabályzat-használati-feltételek) oldala alapján kerül meghatározásra.
 
 **12.2** Az online szabályzat bármikor, előzetes értesítés nélkül módosítható és az aktuális esetre érvényesíthető!
 
 **12.3** A szerverre felcsatlakozva elfogadja az online szabályzatot!
 
-## 13. Online fizetés szolgáltatás leírása, megnevezése 
+## 13. Online fizetés szolgáltatás leírása, megnevezése
+
 **13.1** A FyreMC.hu (account.fyremc.hu) oldalon Emelt Díjas Hívással "FyreCoin-t" ("coin") lehet vásárolni. Ez a virtuális kredit a FyreMC.hu számítógépre letölthető klienséből elérhető játékszerverén (play.fyremc.hu) használható fel. Minden emelt díjas hívás egyszeri (nem perc alapú) díjfizetéssel jár. A FyreCoin különböző játékbeli képességekre vagy egyedi rangra lehet beváltani. A FyreCoin-t a felhasználó attól függően, hogy milyen képesség megszerzésére vagy rangra használta fel, a szolgáltatás ideje minimum 1 hónap.
 
 **Az igénybevétel módja:** emelt díjas hívás (nem perc alapú). A szolgáltatás Magyarországról érhető el.
@@ -318,10 +335,10 @@ A felszámított díjat a igénybevevő a vele szerződésben álló telefonszol
 
 **Emelt díjas szolgáltatás díjszabása:**
 
-| Telefonszám | Bruttó tarifa |
-| -------- | ------- |
-| 06-90-900-135 | 1016 Ft |
-| 06-90-900-288 | 2540 Ft |
+| Telefonszám   | Bruttó tarifa |
+| ------------- | ------------- |
+| 06-90-900-135 | 1016 Ft       |
+| 06-90-900-288 | 2540 Ft       |
 
 **Technikai háttér:** Az Emelt Díjas Hívás (IVR) rendszert a voxpay.hu (Voxinfo Kft., Magyarország, 1037 Budapest, Bécsi út 269.) biztosítja. Hiba esetén az ügyfélszolgálat elérhető: (06-1) 225-7603, e-mail esetén: info@voxinfo.hu
 
@@ -332,6 +349,7 @@ Bankkártyás fizetéskor Önt átirányítjuk a Barion fizetőoldalára, így a
 Az internetes áruház az Ön kártya-, illetve a mögötte álló számla adatainak, számának, lejárati dátumának semmilyen formában nincs birtokában, abba betekintést nem nyerhet.
 
 Áruházunkban az alábbi kártyatípusokkal fizethet:
+
 - MasterCard
 - Maestro
 - Visa
@@ -339,6 +357,7 @@ Az internetes áruház az Ön kártya-, illetve a mögötte álló számla adata
 - American Express
 
 ## 14. Online vitarendezési platform
+
 **14.1** Az Európai Bizottság létrehozott egy honlapot, amelybe a fogyasztók beregisztrálhatnak, így ezen keresztül lehetőségük nyílik arra, hogy online vásárláshoz kapcsolódó jogvitáikat ezen keresztül rendezzék egy kérelem kitöltésével, elkerülve a bírósági eljárást. Így a fogyasztók tudják érvényesíteni jogaikat anélkül, hogy például a távolság meggátolná őket ebben. Ha Ön panaszt kíván tenni egy, az interneten vásárolt termékkel vagy szolgáltatással kapcsolatban, és nem akar feltétlenül bírósághoz fordulni, igénybe veheti az online vitarendezés eszközét. A portálon Ön és a kereskedő, akivel szemben panasszal élt, közösen kiválaszthatják a panasz kezelésével megbízni kívánt vitarendezési testületet. Az online vitarendezési platform itt érhető el:
 
 - ODR link: https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=HU
