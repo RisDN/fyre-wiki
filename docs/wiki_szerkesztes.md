@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 description: Leírás arról, hogy hogyan tudod Te magad szerkeszteni a FyreMC Wiki-t.
 ---
 
