@@ -5,7 +5,7 @@ description: Tájékoztatás arról, hogyan kezeljük és védjük a felhasznál
 
 # 🔏 Adatvédelmi nyilatkozat
 
-Adatvédelmi nyilatkozat (Hatályos: 2025.01.03.)
+Adatvédelmi nyilatkozat (Hatályos: 2026.03.18.)
 Az adatkezelő megnevezése:
 E tájékoztatás kiadója, egyben az Adatkezelő:
 Cégnév: Sebestyén Ádám EV.
@@ -16,23 +16,11 @@ Székhely: 2118 DÁNY FŐ UTCA 87
 E-mail cím: email@fyremc.hu
 Honlap: www.fyremc.hu (a továbbiakban: FyreMC.hu)
 
-Digitális termékek és VIP jogok üzemeltetője:
-Az adatfeldolgozó megnevezése: Csontos Gábor EV.
-Az adatfeldolgozó székhelye: 5000 Szolnok, Szellő utca 17.
-Nyilvántartási szám: 52816710
-Adószám: 71654915-1-36
-
 Kiegészítő érme csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Berta Bianka EV.
 Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
 Nyilvántartási szám: 60009782
 Adószám: 90686621-1-42
-
-Digitális kuponkódok (azonnali aktiválással) üzemeltetője:
-Az adatfeldolgozó megnevezése: Sajti Zsanett Zsófia EV.
-Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
-Nyilvántartási szám: 60008516
-Adószám: 90686298-1-42
 
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
@@ -148,18 +136,18 @@ https://fizetes.voxpay.hu/adatvedelem/
 
 Az Adatfeldolgozó az Adatkezelővel kötött szerződés alapján közreműködik az Emelt Díjas Hívás fizetés végrehajtásában. Ennek során az Adatfeldolgozó az érintett telefonszámát, a rendelés számát és időpontját a polgári jogi elévülési időn belül kezeli.
 
-Adatvédelmi rendelkezések a Barion fizetési rendszer használatáról
+Adatvédelmi rendelkezések a Stripe fizetési rendszer használatáról
 
-Az adatfeldolgozó megnevezése: Barion Payment Zrt.
+Adatfeldolgozó megnevezése: Stripe Payments Europe Ltd.
 
-Az adatfeldolgozó székhelye: Budapest, Infopark sétány 1
+Adatfeldolgozó székhelye: 1 Grand Canal Street Lower, Dublin 2, D02 H210, Írország
 
-Az adatfeldolgozó telefonszáma: +36 1 464 70 99
+Adatfeldolgozó telefonszáma: +353 1 223 8000 
 
-Az adatfeldolgozó e-mail címe: barion@barion.com
+Adatfeldolgozó e-mail címe: privacy@stripe.com
 
-Az adatfeldolgozó Adatkezelés tájékoztatója:
-https://www.barion.com/hu/adatvedelmi-tajekoztato/
+Adatfeldolgozó adatkezelési tájékoztatója:
+https://stripe.com/privacy
 
 Az Adatfeldolgozó az Adatkezelővel kötött szerződés alapján közreműködik az Online fizetés végrehajtásában. Ennek során az Adatfeldolgozó az érintett számlázási nevét és címét, a rendelés számát és időpontját a polgári jogi elévülési időn belül kezeli.
 
@@ -184,14 +172,6 @@ Az adatfeldolgozó székhelye: 5600 Békéscsaba, Pitypang utca 15.
 Kiegészítő érme csomagok üzemeltetője:
 Az adatfeldozó megnevezése: Berta Bianka EV.
 Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
-
-Digitális kuponkódok (azonnali aktiválással) üzemeltetője:
-Az adatfeldozó megnevezése: Sajti Zsanett Zsófia EV.
-Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
-
-Digitális termékek és VIP jogok szolgáltatója:
-Az adatfeldolgozó megnevezése: Csontos Gábor EV.
-Az adatfeldolgozó székhelye: 5000 Szolnok, Szellő utca 17.
 
 Az Adatfeldolgozóval (Sebestyén Ádám EV.) kötött szerződés alapján a Partnerek az online játékhoz kapcsolódó egyes elemek, érmék, kuponok és kiegészítők üzemeltetését és értékesítését végzi. Ennek során az Adatfeldolgozó partnerek az érintett számlázási nevét, e-mail címét és számlázási címét, a rendelés számát és időpontját a polgári jogi elévülési időn belül kezeli. Jelen Adatkezelési tájékoztatóban foglaltak a Sebestyén Ádám EV. partnereire is teljeskörűen értendő.
 
@@ -436,4 +416,4 @@ Adatkezelési tájékoztató módosítása
 
 Az Adatkezelő fenntartja a jogot, hogy jelen adatkezelési tájékoztatót módosítsa. A honlap módosítás hatálybalépését követő használatával elfogadja a módosított adatkezelési tájékoztatót.
 
-Utolsó módosítás: 2024.06.01.
+Utolsó módosítás: 2026.03.18.

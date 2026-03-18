@@ -5,7 +5,7 @@ description: A szerver használatának jogi feltételei és a felhasználói kö
 
 # 📋 FyreMC.hu Általános Szerződési Feltételei
 
-**Hatályba lépésének időpontja:** 2025. év március hó 15. napján
+**Hatályba lépésének időpontja:** 2026. év március hó 18. napján
 
 Amely létrejött, egyrészről a
 
@@ -21,21 +21,7 @@ Adószám: 59315784-1-24\
 Nyilvántartási szám: 57334558\
 Székhely: Magyarország, 5600 Békéscsaba, Pitypang utca 15.
 
-mint **Virtuális játék kiegészítő csomagok üzemeltetője**,
-
-**Csontos Gábor EV.**\
-Adószám: 71654915-1-36\
-Nyilvántartási szám: 52816710\
-Székhely: Magyarország, 5000 Szolnok, Szellő utca 17.
-
-mint **Digitális termékek és VIP jogok szolgáltatója**,
-
-**Sajti Zsanett Zsófia EV.**\
-Adószám: 90686298-1-42\
-Nyilvántartási szám: 60008516\
-Székhely: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
-
-mint **Digitális kuponkódok (azonnali aktiválással) szolgáltatója**, és
+mint **Virtuális játék kiegészítő csomagok üzemeltetője**, és
 
 **Berta Bianka EV.**\
 Adószám: 90686621-1-42\
@@ -239,15 +225,11 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **7.8** Emelt díjas hívás csak a telefonszámlát fizető, felelős személy beleegyezésével használható.
 
-**7.9** Az account.fyremc.hu weboldalon vásárolható „**Digitális termékek és VIP jogok valamint virtuális rangok**” értékesítését és üzemeltetését **Csontos Gábor EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
+**7.9** Az account.fyremc.hu weboldalon vásárolható „**Digitális kuponok és kedvezmények**” értékesítését és üzemeltetését **Sebestyén Ádám EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
-**7.9.1** Az account.fyremc.hu weboldalon vásárolható „**Digitális kuponok és kedvezmények**” értékesítését és üzemeltetését **Sebestyén Ádám EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
+7.9.1 Az account.fyremc.hu weboldalon vásárolható „**Kiegészítő érme csomagok**” értékesítését és üzemeltetését **Berta Bianka EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
-7.9.2 Az account.fyremc.hu weboldalon vásárolható „**Digitális kuponkódok**” értékesítését és üzemeltetését **Sajti Zsanett Zsófia EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
-
-7.9.3 Az account.fyremc.hu weboldalon vásárolható „**Kiegészítő érme csomagok**” értékesítését és üzemeltetését **Berta Bianka EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
-
-**7.9.4** Az account.fyremc.hu weboldalon vásárolható „**Virtuális játék kiegészítő csomagok valamint virtuális prémium rangok**” értékesítését és üzemeltetését **Papasvili György Armen EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Barion.com fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
+**7.9.2** Az account.fyremc.hu weboldalon vásárolható „**Virtuális játék kiegészítő csomagok valamint virtuális prémium rangok**” értékesítését és üzemeltetését **Papasvili György Armen EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
 ## 8. Felelősségkorlátozás
 

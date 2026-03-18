@@ -30,23 +30,6 @@ Nyilvántartási szám: 57334558
 Adószám: 59315784-1-24  
 Kamara: Békés Megyei Kereskedelmi és Iparkamara
 
-**Digitális termékek és VIP jogok üzemeltetője:**
-Név: Csontos Gábor EV.  
-Székhely / levelezési cím: 5000 Szolnok, Szellő utca 17.  
-Nyilvántartásba bejegyző hatóság: NAV Jász-Nagykun-Szolnok Vármegyei Adó- és Vámigazgatósága  
-Nyilvántartási szám: 52816710  
-Adószám: 71654915-1-36  
-Kamara: Jász-Nagykun-Szolnok Megyei Kereskedelmi és Iparkamara
-
-**Digitális kuponkódok (azonnali aktiválással) szolgáltatója:**  
-Név: Sajti Zsanett Zsófia EV.  
-Székhely / levelezési cím: 1081 Budapest, Alföldi utca 18.  
-Nyilvántartásba bejegyző hatóság: NAV Budapest Fővárosi Adó- és Vámigazgatósága  
-Nyilvántartási szám: 60008516  
-Adószám: 90686298-1-42 
-Kamara: Budapest Fővárosi Kereskedelmi és Iparkamara
-
-
 **Kiegészítő érme csomagok szolgáltatója:**  
 Név: Berta Bianka EV.  
 Székhely / levelezési cím: 1081 Budapest, Alföldi utca 18.  
