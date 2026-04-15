@@ -5,7 +5,7 @@ description: A szerver használatának jogi feltételei és a felhasználói kö
 
 # 📋 FyreMC.hu Általános Szerződési Feltételei
 
-**Hatályba lépésének időpontja:** 2026. év március hó 18. napján
+**Hatályba lépésének időpontja:** 2026. év április hó 15. napján
 
 Amely létrejött, egyrészről a
 
@@ -17,9 +17,9 @@ Székhely: Magyarország, 2118 Dány Fő utca 87.
 mint **FyreMC.hu** (Weboldal és online játék működtetés),
 
 **Papasvili György Armen EV.**\
-Adószám: 59315784-1-24\
+Adószám: 59315784-1-42\
 Nyilvántartási szám: 57334558\
-Székhely: Magyarország, 5600 Békéscsaba, Pitypang utca 15.
+Székhely: Magyarország, 1081 Budapest, Alföld utca 18. 2. em. 47. ajtó
 
 mint **Virtuális játék kiegészítő csomagok üzemeltetője**, és
 
@@ -54,6 +54,8 @@ A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Onl
 
 **1.8** A felhasználónak a jelen feltételektől eltérő szabályozásai csak akkor érvényesek, ha azok alkalmazásáról a FyreMC.hu előzetesen írásos beleegyezést ad.
 
+**1.9** A FyreMC.hu tárhelyszolgáltatója: **RACKFOREST ZRT.** (székhely: 1132 Budapest, Victor Hugo utca 11. 5. em. B05001., telefonszám: +36-1-211-0044, e-mail: info@rackforest.com).
+
 ## 2. A szerződés létrejötte
 
 **2.1** A FyreMC.hu által üzemeltetett online játék és egyéb szolgáltatások igénybe vételének előfeltétele a felhasználó regisztrációja.
@@ -78,21 +80,42 @@ A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Onl
 
 **2.9.2** A FyreMC.hu regisztrációkor ellenőrzés céljából bekéri a regisztráló születési idejét, amely ha nem felel meg a 14 éves korhatárnak, úgy a regisztrációt nem engedélyezi. Kérjük, hogy olyan dátumot adjon meg, amely megfelel a valóságnak.
 
-**2.9.3** Azok a regisztrálók, akik 14-16 éves kör között vannak, egy szülői megerősítésben kell részt vennie. Ilyenkor meg kell adnia a szülő vagy törvényes képviselője e-mail címét, akinek egy megerősítő e-mailt küldünk a regisztrációról. Csak ezt elfogadva lehetséges a regisztráció!
+**2.9.3** Azok a regisztrálók, akik 14-18 éves kor között vannak, egy szülői megerősítésben kell részt vennie. Ilyenkor meg kell adnia a szülő vagy törvényes képviselője e-mail címét, akinek egy megerősítő e-mailt küldünk a regisztrációról. Csak ezt elfogadva lehetséges a regisztráció!
 
-## 3. Visszavonási eljárás
+## 3. Elállási / visszavonási jog
 
-**3.1** Elállási jog
+**3.1** A FyreMC.hu szolgáltatásain belül kizárólag digitális tartalmak (rangok, virtuális javak, kiegészítő csomagok, érmecsomagok, kuponkódok) vásárolhatók, amelyek nem anyagi adathordozón nyújtott digitális adattartalomnak minősülnek.
 
-**3.1.1** Visszavonhatja a szerződését 14 (azaz tizennégy naptári) napon belül, indoklás nélkül, írott formában (például postai úton, vagy e-mailben). A visszavonási időszak az írásbeli visszavonási utasítás kézhezvételekor kezdődik, nem a szerződés befejezése és nem az informáló kötelességünk teljesítése előtt. Ahhoz hogy a visszavonási határidőt tartani lehessen, a visszavonási szándékról való nyilatkozatot időben kell elküldeni. A visszavonási nyilatkozatot postai úton a FyreMC.hu székhelyére (Magyarország, 2118 Dány Fő utca 87.) kell címezni vagy e-mail formájában az email@fyremc.hu címre.
+**3.2** A 45/2014. (II. 26.) Korm. rendelet 20. §-a alapján a Felhasználó (amennyiben fogyasztónak minősül a Polgári Törvénykönyvről szóló 2013. évi V. törvény értelmében) a szerződéskötés napjától számított **14 (tizennégy) naptári napon** belül jogosult indokolás nélkül elállni a szerződéstől.
 
-**3.2** A visszavonás következményei
+**3.3** Az elállási jog kizárása digitális tartalom esetén
 
-**3.2.1** Egy érvényes visszavonás esetén mindkét fél köteles visszatéríteni az általa nyújtott teljesítéseket és az esetlegesen ezekből húzott hasznot (pl. kamatokat) kiadni. Amennyiben Ön a kapott teljesítést teljes egészében vagy részben nem tudja, vagy csak leromlott állapotban tudja visszatéríteni, akkor a megfelelő mértékben esetlegesen egyenértéket köteles fizetni. A fizetési kötelezettségeket 30 napon (azaz harminc naptári napon) belül kell teljesíteni. A határidő az Ön számára az elállási nyilatkozat elküldésével kezdődik, számunkra pedig annak kézhezvételével.
+**3.3.1** A 45/2014. (II. 26.) Korm. rendelet 29. § (1) bekezdés m) pontja alapján a Felhasználó **nem gyakorolhatja elállási jogát** olyan nem anyagi adathordozón nyújtott digitális adattartalom tekintetében, amelynek teljesítését a fogyasztó kifejezett, előzetes beleegyezésével megkezdték, és a fogyasztó e beleegyezéssel egyidejűleg nyilatkozott annak tudomásulvételéről, hogy a teljesítés megkezdését követően elveszíti elállási jogát.
 
-**3.3** Különleges megjegyzések
+**3.3.2** Mivel a FyreMC.hu-n kizárólag digitális tartalmak vásárolhatók, amelyek a vásárlást követően azonnal aktiválódnak és teljesítettnek minősülnek, a vásárlás során a Felhasználót a fizetési folyamatban tájékoztatjuk arról, hogy:
 
-**3.3.1** A visszavonási joga idő előtt érvénytelenné válik, ha a szerződés mindkét oldalon megkezdődött és teljesítve lett a visszavonási joggal való élés előtt.
+- a digitális tartalom azonnali kézbesítéséhez való hozzájárulásával az elállási jogáról lemond;
+- a teljesítés a fizetés visszaigazolását követően azonnal megkezdődik.
+
+A Felhasználó a vásárlás során a fentiekhez kifejezetten hozzájárul. Ennek hiányában a vásárlás nem kerül feldolgozásra.
+
+**3.4** Amennyiben a digitális tartalom technikai hibából adódóan nem kerül aktiválásra (azaz a teljesítés nem kezdődött meg), a Felhasználó a 14 napos elállási határidőn belül jogosult elállási jogát gyakorolni. Ebben az esetben a Szolgáltató a Felhasználó által teljesített ellenszolgáltatást haladéktalanul, de legkésőbb az elállási nyilatkozat kézhezvételétől számított **14 napon** belül visszatéríti az eredeti fizetési móddal megegyező módon.
+
+**3.5** Az elállási szándékot egyértelmű nyilatkozattal kell közölni az alábbi elérhetőségek egyikén:
+- **E-mail:** email@fyremc.hu
+- **Postai cím:** 2118 Dány, Fő utca 87. (Sebestyén Ádám EV.)
+
+**3.6** Elállási nyilatkozat-minta
+
+A 45/2014. (II. 26.) Korm. rendelet 3. mellékletében foglalt minta alapján:
+
+*„Címzett: [a Szolgáltató neve és e-mail címe]*
+*Alulírott/ak kijelenti/k, hogy gyakorlom/gyakoroljuk elállási jogomat/jogunkat az alábbi szolgáltatás nyújtására irányuló szerződés tekintetében:*
+*A szerződéskötés dátuma:*
+*A fogyasztó(k) neve:*
+*A fogyasztó(k) címe:*
+*A fogyasztó(k) aláírása (kizárólag papír alapú nyilatkozat esetén):*
+*Kelt:"*
 
 ## 4. A felhasználó általános kötelezettségei
 
@@ -139,13 +162,13 @@ A FyreMC.hu a hozzá tartozó weboldalakon és más platformokon közzétett Onl
 
 **a)** nem készíthet vagy használhat ún. cheat-, mod- és/vagy hack-programokat, valamint minden más, harmadik személyek által készített szoftvereket, melyek megváltoztatják az online játék játékélményét,
 
-**b)** nem használhat olyan szoftvereket, melyek lehetővé teszik az ún. adatbányászást (“data-mining”) vagy más módon az online játékkal kapcsolatos információkat gyűjtik össze,
+**b)** nem használhat olyan szoftvereket, melyek lehetővé teszik az ún. adatbányászást ("data-mining") vagy más módon az online játékkal kapcsolatos információkat gyűjtik össze,
 
 **c)** nem használhatja az online játékon kívül az online játékokban használt virtuális tárgyakat, azokat nem vásárolhatja vagy adhatja el vagy cserélheti el "valódi" pénzért.
 
 Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenységre is, melyek a fent említett tiltásokkal egyenértékűek.
 
-**4.9** Tilos a reklámok elrejtését célzó eljárások használata. Lényegtelen, hogy eközben a reklám tudatosan vagy pedig általánosan, ún. felugróablak-blokkoló programok (“pop-up-blocker”), szövegalapú böngészők vagy hasonlók használata révén kerül elrejtésre.
+**4.9** Tilos a reklámok elrejtését célzó eljárások használata. Lényegtelen, hogy eközben a reklám tudatosan vagy pedig általánosan, ún. felugróablak-blokkoló programok ("pop-up-blocker"), szövegalapú böngészők vagy hasonlók használata révén kerül elrejtésre.
 
 **4.10** A bejelentkezés csak a mindenkori online játék kezdőoldalán és a FyreMC.hu portálon megengedett. A felhasználói fiókok automatizált megnyitása - függetlenül attól, hogy közben a kezdőoldal megnyílik vagy sem - tilos.
 
@@ -223,13 +246,11 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **7.7** Késedelem esetén a törvényileg szabott kamatok esedékesek. A FyreMC.hu ezen túl jogosult a felhasználói fiók felfüggesztésére, átfogó kártérítési igény támasztására és a teljesítés leállítására.
 
-**7.8** Emelt díjas hívás csak a telefonszámlát fizető, felelős személy beleegyezésével használható.
+**7.9** Az account.fyremc.hu weboldalon vásárolható „**Digitális kuponok és kedvezmények**" értékesítését és üzemeltetését **Sebestyén Ádám EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
-**7.9** Az account.fyremc.hu weboldalon vásárolható „**Digitális kuponok és kedvezmények**” értékesítését és üzemeltetését **Sebestyén Ádám EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
+7.9.1 Az account.fyremc.hu weboldalon vásárolható „**Kiegészítő érme csomagok**" értékesítését és üzemeltetését **Berta Bianka EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
-7.9.1 Az account.fyremc.hu weboldalon vásárolható „**Kiegészítő érme csomagok**” értékesítését és üzemeltetését **Berta Bianka EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
-
-**7.9.2** Az account.fyremc.hu weboldalon vásárolható „**Virtuális játék kiegészítő csomagok valamint virtuális prémium rangok**” értékesítését és üzemeltetését **Papasvili György Armen EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
+**7.9.2** Az account.fyremc.hu weboldalon vásárolható „**Virtuális játék kiegészítő csomagok valamint virtuális prémium rangok**" értékesítését és üzemeltetését **Papasvili György Armen EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
 ## 8. Felelősségkorlátozás
 
@@ -239,7 +260,7 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **8.2.1** Amennyiben a FyreMC.hu a mindenkori felelősséget kiváltó szolgáltatást díjmentesen nyújtja, akkor a FyreMC.hu csak szándékos és durva gondatlanságból eredő elkövetésért felel.
 
-**8.2.2** Fizetős szolgáltatások esetén a FyreMC.hu szándékos és durva gondatlanságból eredő elkövetésért, valamint személyi sérülés esetén korlátlanul felel, könnyű gondatlanságból eredő elkövetésért viszont csak a szerződésben rögzített lényeges kötelezettségek megsértéséért, a FyreMC.hu álló késedelem és lehetetlen teljesítés esetén. A felelősség az ilyen, a szerződésben rögzített lényeges kötelezettségek megsértése esetén a szerződés jellegéből adódó károkra korlátozódik, melyekkel a FyreMC.hu-nak a szerződéskötéskor az abban az időpontban fennálló körülmények ismeretében számolnia kellett. „A szerződés jellegéből adódó kötelezettségek“ a fent leírt értelemben azok a kötelezettségek, csak amelyek a szerződés rendeltetésszerű teljesítését és a cél elérését lehetővé teszik, és melyek betartását illetően a felhasználó bizalommal lehet.
+**8.2.2** Fizetős szolgáltatások esetén a FyreMC.hu szándékos és durva gondatlanságból eredő elkövetésért, valamint személyi sérülés esetén korlátlanul felel, könnyű gondatlanságból eredő elkövetésért viszont csak a szerződésben rögzített lényeges kötelezettségek megsértéséért, a FyreMC.hu álló késedelem és lehetetlen teljesítés esetén. A felelősség az ilyen, a szerződésben rögzített lényeges kötelezettségek megsértése esetén a szerződés jellegéből adódó károkra korlátozódik, melyekkel a FyreMC.hu-nak a szerződéskötéskor az abban az időpontban fennálló körülmények ismeretében számolnia kellett. „A szerződés jellegéből adódó kötelezettségek" a fent leírt értelemben azok a kötelezettségek, csak amelyek a szerződés rendeltetésszerű teljesítését és a cél elérését lehetővé teszik, és melyek betartását illetően a felhasználó bizalommal lehet.
 
 **8.2.3** A nem a FyreMC.hu által okozott zavarokért a teljesítési hálózatban a FyreMC.hu nem vállal felelősséget.
 
@@ -277,7 +298,16 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **10.1** A felhasználó személyes adatai csak a felhasználó beleegyezésével kerülnek felvételre, feldolgozásra vagy felhasználásra vagy ha más törvényi előírás ezt elrendeli vagy megenged.
 
-**10.2** További részletek a FyreMC.hu [Adatvédelmi Nyilatkozata](https://wiki.fyremc.hu/docs/dokumentumok/adatvedelmi_nyilatkozat) alapján kerülnek meghatározásra.
+**10.2** A FyreMC.hu a szolgáltatásai során az alábbi adatfeldolgozókat veszi igénybe:
+
+| Adatfeldolgozó | Tevékenység | Székhely |
+|---|---|---|
+| RACKFOREST ZRT. | Weboldal tárhelyszolgáltatás | 1132 Budapest, Victor Hugo utca 11. |
+| Hetzner Online GmbH | Minecraft játékszerver üzemeltetés | Industriestr. 25, 91710 Gunzenhausen, Németország |
+| Stripe Payments Europe Ltd. | Online fizetés | 1 Grand Canal Street Lower, Dublin 2, Írország |
+| Billingo Technologies Zrt. | Számlázás | 1133 Budapest, Árbóc utca 6. |
+
+**10.3** További részletek a FyreMC.hu [Adatvédelmi Nyilatkozata](https://wiki.fyremc.hu/docs/dokumentumok/adatvedelmi_nyilatkozat) alapján kerülnek meghatározásra.
 
 ## 11. Jelen felhasználási feltételek változásai, egyéb, kommunikáció, mentesítő záradék
 
@@ -297,6 +327,8 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 **11.8** A FyreMC.hu minden olyan jogot fenntart magának, amelyet a jelen rendelkezések kifejezetten nem biztosítanak a Felhasználó számára.
 
+**11.9** A jelen felhasználási feltételekre és az ezekkel összefüggésben felmerülő jogvitákra Magyarország jogszabályai az irányadóak, különösen a Polgári Törvénykönyvről szóló 2013. évi V. törvény, a 2001. évi CVIII. törvény az elektronikus kereskedelmi szolgáltatásokról, a 45/2014. (II. 26.) Korm. rendelet és az Európai Parlament és a Tanács (EU) 2016/679 rendelete (GDPR).
+
 ## 12. Általános szabályok az online játékunkban
 
 **12.1** Az online szabályzat [FyreMC.hu szabályzat](https://wiki.fyremc.hu/docs/category/-szabályzat-használati-feltételek) oldala alapján kerül meghatározásra.
@@ -307,24 +339,7 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 
 ## 13. Online fizetés szolgáltatás leírása, megnevezése
 
-**13.1** A FyreMC.hu (account.fyremc.hu) oldalon Emelt Díjas Hívással "FyreCoin-t" ("coin") lehet vásárolni. Ez a virtuális kredit a FyreMC.hu számítógépre letölthető klienséből elérhető játékszerverén (play.fyremc.hu) használható fel. Minden emelt díjas hívás egyszeri (nem perc alapú) díjfizetéssel jár. A FyreCoin különböző játékbeli képességekre vagy egyedi rangra lehet beváltani. A FyreCoin-t a felhasználó attól függően, hogy milyen képesség megszerzésére vagy rangra használta fel, a szolgáltatás ideje minimum 1 hónap.
-
-**Az igénybevétel módja:** emelt díjas hívás (nem perc alapú). A szolgáltatás Magyarországról érhető el.
-
-A nyújtott szolgáltatás folyamatosan elérhető, a nap 24 órájában.
-
-A felszámított díjat a igénybevevő a vele szerződésben álló telefonszolgáltatóján keresztül fizeti meg.
-
-**Emelt díjas szolgáltatás díjszabása:**
-
-| Telefonszám   | Bruttó tarifa |
-| ------------- | ------------- |
-| 06-90-900-135 | 1016 Ft       |
-| 06-90-900-288 | 2540 Ft       |
-
-**Technikai háttér:** Az Emelt Díjas Hívás (IVR) rendszert a voxpay.hu (Voxinfo Kft., Magyarország, 1037 Budapest, Bécsi út 269.) biztosítja. Hiba esetén az ügyfélszolgálat elérhető: (06-1) 225-7603, e-mail esetén: info@voxinfo.hu
-
-**13.2** Online bankkártyás fizetés – A FyreMC.hu részére a kényelmes és biztonságos online fizetést a Barion Payment Zrt. (Magyarország, 1117 Budapest, Irinyi József utca 4-20. 2. emelet) biztosítja. Magyar Nemzeti Bank engedély száma: H-EN-I-1064/2013. Bankkártya adatai áruházunkhoz nem jutnak el.
+**13.1** Online bankkártyás fizetés – A FyreMC.hu részére a kényelmes és biztonságos online fizetést a Barion Payment Zrt. (Magyarország, 1117 Budapest, Irinyi József utca 4-20. 2. emelet) biztosítja. Magyar Nemzeti Bank engedély száma: H-EN-I-1064/2013. Bankkártya adatai áruházunkhoz nem jutnak el.
 
 Bankkártyás fizetéskor Önt átirányítjuk a Barion fizetőoldalára, így a fizetés közvetlenül az általuk üzemeltetett, a nemzetközi kártyatársaságok szabályai és biztonsági előírásai szerint működő oldalon történik, és nem a webáruház oldalán.
 
@@ -338,8 +353,44 @@ Az internetes áruház az Ön kártya-, illetve a mögötte álló számla adata
 - Visa Electron
 - American Express
 
-## 14. Online vitarendezési platform
+## 14. Panaszkezelés és jogorvoslat
 
-**14.1** Az Európai Bizottság létrehozott egy honlapot, amelybe a fogyasztók beregisztrálhatnak, így ezen keresztül lehetőségük nyílik arra, hogy online vásárláshoz kapcsolódó jogvitáikat ezen keresztül rendezzék egy kérelem kitöltésével, elkerülve a bírósági eljárást. Így a fogyasztók tudják érvényesíteni jogaikat anélkül, hogy például a távolság meggátolná őket ebben. Ha Ön panaszt kíván tenni egy, az interneten vásárolt termékkel vagy szolgáltatással kapcsolatban, és nem akar feltétlenül bírósághoz fordulni, igénybe veheti az online vitarendezés eszközét. A portálon Ön és a kereskedő, akivel szemben panasszal élt, közösen kiválaszthatják a panasz kezelésével megbízni kívánt vitarendezési testületet. Az online vitarendezési platform itt érhető el:
+**14.1** A Felhasználó a FyreMC.hu szolgáltatásával kapcsolatos panaszát az alábbi elérhetőségeken terjesztheti elő:
+- **E-mail:** email@fyremc.hu
+- **Postai cím:** 2118 Dány, Fő utca 87.
 
-- ODR link: https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=HU
+**14.2** A Szolgáltató a beérkezett panaszokat haladéktalanul, de legkésőbb **30 napon belül** kivizsgálja, és a Felhasználót az eredményről értesíti.
+
+**14.3** Békéltető testület
+
+Amennyiben a Szolgáltató és a Felhasználó között esetlegesen fennálló fogyasztói jogvita a tárgyalások során nem rendeződik, a Felhasználó a lakóhelye vagy tartózkodási helye szerinti illetékes békéltető testülethez fordulhat. A Szolgáltató székhelye szerinti illetékes békéltető testület:
+
+**Budapesti Békéltető Testület**
+Címe: 1016 Budapest, Krisztina krt. 99. III. em. 310.
+Telefonszám: +36-1-488-2131
+E-mail: bekelteto.testulet@bkik.hu
+Honlap: [www.bekeltet.hu](https://www.bekeltet.hu)
+
+A területileg illetékes békéltető testületek listája elérhető a https://www.bekeltetes.hu oldalon.
+
+**14.4** Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)
+
+Adatvédelmi kérdésekben a Felhasználó panasszal fordulhat a Nemzeti Adatvédelmi és Információszabadság Hatósághoz:
+
+Címe: 1125 Budapest, Szilágyi Erzsébet fasor 22/C.
+Levelezési cím: 1530 Budapest, Pf.: 5.
+Telefon: +36-1-391-1400
+E-mail: ugyfelszolgalat@naih.hu
+Honlap: [www.naih.hu](https://www.naih.hu)
+
+**14.5** Online vitarendezési platform (ODR)
+
+Az Európai Bizottság létrehozott egy honlapot, amelybe a fogyasztók beregisztrálhatnak, így ezen keresztül lehetőségük nyílik arra, hogy online vásárláshoz kapcsolódó jogvitáikat ezen keresztül rendezzék egy kérelem kitöltésével, elkerülve a bírósági eljárást. Ha Ön panaszt kíván tenni egy, az interneten vásárolt termékkel vagy szolgáltatással kapcsolatban, és nem akar feltétlenül bírósághoz fordulni, igénybe veheti az online vitarendezés eszközét.
+
+**ODR-link:** [https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=HU](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=HU)
+
+A Szolgáltató e-mail-címe ODR-eljáráshoz: email@fyremc.hu
+
+**14.6** Bírósági jogérvényesítés
+
+A Felhasználó jogainak megsértése esetén bírósághoz fordulhat. A per – a Felhasználó választása szerint – a Felhasználó lakóhelye vagy tartózkodási helye szerinti törvényszék előtt is megindítható.

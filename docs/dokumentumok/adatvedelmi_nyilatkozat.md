@@ -5,7 +5,7 @@ description: Tájékoztatás arról, hogyan kezeljük és védjük a felhasznál
 
 # 🔏 Adatvédelmi nyilatkozat
 
-Adatvédelmi nyilatkozat (Hatályos: 2026.03.18.)
+Adatvédelmi nyilatkozat (Hatályos: 2026.04.15.)
 Az adatkezelő megnevezése:
 E tájékoztatás kiadója, egyben az Adatkezelő:
 Cégnév: Sebestyén Ádám EV.
@@ -24,15 +24,15 @@ Adószám: 90686621-1-42
 
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
-Az adatfeldolgozó székhelye: 5600 Békéscsaba, Pitypang utca 15.
+Az adatfeldolgozó székhelye: 1081 Budapest, Alföld utca 18. 2. em. 47. ajtó
 Nyilvántartási szám: 57334558
-Adószám: 59315784-1-24
+Adószám: 59315784-1-42
 
 Adatvédelmi szabályzat:
 
 Az adatvédelmi szabályzatunk leírja, hogy a FyreMC.hu milyen adatokat gyűjt össze a FyreMC.hu szolgáltatásainak használata során, illetve, hogy miként használhatja és oszthatja meg azokat. Felhívjuk figyelmét, hogy a jelen szabályzat kizárólag a saját adatkezelési gyakorlatainkra vonatkozik. Nem vonatkozik külső felek szolgáltatásaira, beleértve az olyan vállalatokat is, amelyekkel a FyreMC.hu szolgáltatásaiban vagy azokon keresztül kerül kapcsolatba (lásd Külső felek által üzemeltetett webhelyek és szolgáltatások).
 
-A „FyreMC” név alatt a FyreMC.hu weblap és ahhoz kapcsolódó játékszerverek és egyéb a játékhoz nélkülözhetetlenül kapcsolódó weblapok értendőek. (account.fyremc.hu, forum.fyremc.hu, play.fyremc.hu, stb…) „A FyreMC.hu szolgáltatásai” alatt az összes, a FyreMC.hu weblap és más, a jelen szabályzat hatálya alá tartozó játékok, webhelyek, alkalmazások és szolgáltatások értendők, függetlenül attól, hogy a felhasználó miként fér hozzá azokhoz és hogyan használja őket (a mobileszközöket is beleértve).
+A „FyreMC" név alatt a FyreMC.hu weblap és ahhoz kapcsolódó játékszerverek és egyéb a játékhoz nélkülözhetetlenül kapcsolódó weblapok értendőek. (account.fyremc.hu, forum.fyremc.hu, play.fyremc.hu, stb…) „A FyreMC.hu szolgáltatásai" alatt az összes, a FyreMC.hu weblap és más, a jelen szabályzat hatálya alá tartozó játékok, webhelyek, alkalmazások és szolgáltatások értendők, függetlenül attól, hogy a felhasználó miként fér hozzá azokhoz és hogyan használja őket (a mobileszközöket is beleértve).
 
 A jelen adatvédelmi szabályzat a FyreMC.hu regionális szolgáltatásaira vonatkozó Használati feltételek része, amelyet a jelen szabályzat hivatkozás útján tartalmaz. Ez azt jelenti, hogy a szolgáltatás használatára a Használati feltételek rendelkezései is vonatkoznak (beleértve a kártalanítás korlátozására, a viták rendezésére és az irányadó jog alkalmazására vonatkozó rendelkezéseket is). A FyreMC.hu szolgáltatásainak használata előtt kérjük a felhasználót, hogy tekintse át az összes vonatkozó feltételt, és győződjön meg arról, hogy azokat kivétel nélkül megértette és elfogadja.
 
@@ -40,9 +40,33 @@ FIGYELMESEN OLVASSA EL A TELJES SZABÁLYZATOT. A FyreMC.hu SZOLGÁLTATÁSAIRA T�
 
 Ha a szabályzat valamely része nem érthető, a Kapcsolatfelvétel hivatkozás segítségével teheti fel kérdéseit.
 
+## Jogszabályi háttér
+
+A jelen adatvédelmi tájékoztató az alábbi jogszabályok rendelkezéseivel összhangban készült:
+
+- **Az Európai Parlament és a Tanács (EU) 2016/679 rendelete** (2016. április 27.) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról (általános adatvédelmi rendelet, a továbbiakban: **GDPR**)
+- **2011. évi CXII. törvény** az információs önrendelkezési jogról és az információszabadságról (a továbbiakban: **Info tv.**)
+- **2001. évi CVIII. törvény** az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről (a továbbiakban: **Eker tv.**)
+- **2000. évi C. törvény** a számvitelről (a továbbiakban: **Számv. tv.**)
+
+## Az adatkezelés céljai és jogalapjai
+
+Az egyes adatkezelési tevékenységek jogalapja a GDPR 6. cikk (1) bekezdése alapján:
+
+| Adatkezelési cél | Jogalap | GDPR hivatkozás |
+|---|---|---|
+| Regisztráció, felhasználói fiók létrehozása | Szerződés teljesítése | 6. cikk (1) bek. b) pont |
+| Fizetés feldolgozása (Stripe) | Szerződés teljesítése és jogi kötelezettség | 6. cikk (1) bek. b) és c) pont |
+| Számlázás (Billingo) | Jogi kötelezettség (Számv. tv.) | 6. cikk (1) bek. c) pont |
+| Naplófájlok, IP-cím rögzítése | Jogos érdek (biztonság, csalás megelőzése) | 6. cikk (1) bek. f) pont |
+| Cookie-k (nem szükséges) | Hozzájárulás | 6. cikk (1) bek. a) pont |
+| Hírlevél, promóciós kommunikáció | Hozzájárulás | 6. cikk (1) bek. a) pont |
+| ScreenShare (cheat-ellenőrzés) | Hozzájárulás | 6. cikk (1) bek. a) pont |
+| Büntetések nyilvántartása | Jogos érdek (szabályzat betartatása) | 6. cikk (1) bek. f) pont |
+
 1.0AZ ÁLTALUNK GYŰJTÖTT ADATOK
 
-Két típusú adatot gyűjtünk: „személyes adatokat”, amelyek lehetővé teszik egy adott személy azonosítását (ilyen például az e-mail cím), valamint „nem személyes adatokat”, amelyek erre nem alkalmasak (például az összesített statisztikák). A gyűjtött személyes és nem személyes adatok körét többnyire az határozza meg, hogy a felhasználó miként lép velünk kapcsolatba.
+Két típusú adatot gyűjtünk: „személyes adatokat", amelyek lehetővé teszik egy adott személy azonosítását (ilyen például az e-mail cím), valamint „nem személyes adatokat", amelyek erre nem alkalmasak (például az összesített statisztikák). A gyűjtött személyes és nem személyes adatok körét többnyire az határozza meg, hogy a felhasználó miként lép velünk kapcsolatba.
 
 A regisztrációkor megadott telefonszámot a fiók hitelesítéséhez használjuk, arra a regisztrációs megerősítő SMS-t küldjük ki. Külön hozzájárulás nélkül marketing célokra nem használjuk fel, harmadik félnek nem továbbítjuk.
 
@@ -89,7 +113,7 @@ biztonságosabbá tételét, valamint a hirdetési tevékenységeink támogatás
 
 (1) NAPLÓFÁJLOK. Automatikusan gyűjtjük a FyreMC.hu szolgáltatásainak használatára vonatkozó adatokat, és naplófájlokban tároljuk azokat. Ezek lehetnek például használati adatok (lásd: Az általunk gyűjtött adatok), például az eszköz vagy böngésző által a FyreMC.hu szolgáltatásainak használata során küldött adatok, valamint a FyreMC.hu-fiók használatára vonatkozó részletek.
 
-(2) COOKIE-K ÉS HASONLÓ NYOMKÖVETÉSI TECHNOLÓGIÁK. A „cookie-k” kisméretű adathalmazok, amelyeket a használt online szolgáltatások helyeznek el az eszközökön nyomkövetési célból. A „webjelzők” áttetsző pixelképek, amelyek segítségével online szolgáltatások adatokat gyűjtenek arról, miként használják őket (például hogy a felhasználó megnyitott-e egy e-mailt, vagy rákattintott-e egy hirdetésre). További gyakori nyomkövetési technológiák: címkék, parancsfájlok, helyi megosztott objektumok (pl. Flash cookie-k), helyi tárhely (pl. HTML5) és hasonló eszközök.
+(2) COOKIE-K ÉS HASONLÓ NYOMKÖVETÉSI TECHNOLÓGIÁK. A „cookie-k" kisméretű adathalmazok, amelyeket a használt online szolgáltatások helyeznek el az eszközökön nyomkövetési célból. A „webjelzők" áttetsző pixelképek, amelyek segítségével online szolgáltatások adatokat gyűjtenek arról, miként használják őket (például hogy a felhasználó megnyitott-e egy e-mailt, vagy rákattintott-e egy hirdetésre). További gyakori nyomkövetési technológiák: címkék, parancsfájlok, helyi megosztott objektumok (pl. Flash cookie-k), helyi tárhely (pl. HTML5) és hasonló eszközök.
 
 A FyreMC.hu szolgáltatásai cookie-kat, webjelzőket és egyéb nyomkövetési technológiákat használnak a felhasználói eszközökön található fájlok gyűjtésére, tárolására és olvasására. Ezek lehetnek belső (a FyreMC.hu által működtetett) vagy külső (más vállalatok által működtetett) technológiák. Ezek az eszközök a FyreMC.hu szolgáltatásainak hatékonyabb működését és üzemeltetését segítik, valamint a böngészési élménnyel kapcsolatos használati adatokat (lásd: Az általunk gyűjtött adatok) és hasonló adatokat gyűjtenek. Ezek a technológiák követhetik a számítógép által az olyan nem engedélyezett külső féltől származó programokhoz használt közvetlen hozzáférésű memóriát (RAM) is, melyeket a Használati feltételek tiltanak.
 
@@ -121,21 +145,6 @@ YouTube-videók) és ajánlatok (például hirdetések és hirdetési hálózato
 
 A FyreMC.hu szolgáltatásai használatának értékeléséhez és jelentéséhez például olyan külső elemzési szolgáltatókat veszünk igénybe, mint a Google Analytics. Ezek a vállalatok saját nyomkövetési technológiájukkal gyűjthetnek információt a felhasználók online tevékenységéről különböző webhelyeken és szolgáltatásokban. Néhány elemzési szolgáltató közvetlenül a saját webhelyén teszi szabályozhatóvá, hogy miként gyűjtheti és használhatja fel az adatokat. A Google Analytics letiltásával kapcsolatos bővebb információk itt találhatók.
 
-Adatvédelmi rendelkezések az Emelt díjas hívás (IVR) fizetési rendszer használatáról
-
-Az adatfeldolgozó megnevezése: Voxinfo Kft.
-
-Az adatfeldolgozó székhelye: 1037 Budapest, Bécsi út 269.
-
-Az adatfeldolgozó telefonszáma: (06-1) 225-7603
-
-Az adatfeldolgozó e-mail címe: info@voxinfo.hu
-
-Az adatfeldolgozó Adatkezelés tájékoztatója:
-https://fizetes.voxpay.hu/adatvedelem/
-
-Az Adatfeldolgozó az Adatkezelővel kötött szerződés alapján közreműködik az Emelt Díjas Hívás fizetés végrehajtásában. Ennek során az Adatfeldolgozó az érintett telefonszámát, a rendelés számát és időpontját a polgári jogi elévülési időn belül kezeli.
-
 Adatvédelmi rendelkezések a Stripe fizetési rendszer használatáról
 
 Adatfeldolgozó megnevezése: Stripe Payments Europe Ltd.
@@ -150,6 +159,29 @@ Adatfeldolgozó adatkezelési tájékoztatója:
 https://stripe.com/privacy
 
 Az Adatfeldolgozó az Adatkezelővel kötött szerződés alapján közreműködik az Online fizetés végrehajtásában. Ennek során az Adatfeldolgozó az érintett számlázási nevét és címét, a rendelés számát és időpontját a polgári jogi elévülési időn belül kezeli.
+
+## Harmadik országba irányuló adattovábbítás
+
+Egyes adatfeldolgozóink az Európai Gazdasági Térségen (EGT) kívüli országban telepedtek le. Az ilyen adattovábbítás esetén az Adatkezelő gondoskodik arról, hogy az érintettek jogainak megfelelő garanciák biztosítottak legyenek a GDPR V. fejezete alapján:
+
+- **Stripe Payments Europe Ltd.** – székhely: Írország (EGT tagállam), további adattovábbítás az Egyesült Államokba az EU–US Data Privacy Framework alapján
+- **RACKFOREST ZRT.** – székhely: Magyarország (EGT tagállam)
+- **Hetzner Online GmbH** – székhely: Németország (EGT tagállam)
+
+Az érintett kérheti az adattovábbítás alapját képező garanciák másolatát az email@fyremc.hu e-mail címen.
+
+JÁTÉKSZERVER ÜZEMELTETÉSSEL KAPCSOLATOS ADATFELDOLGOZÁS
+
+Az adatfeldolgozó megnevezése: Hetzner Online GmbH
+
+Az adatfeldolgozó székhelye: Industriestr. 25, 91710 Gunzenhausen, Németország
+
+Az adatfeldolgozó e-mail címe: info@hetzner.com
+
+Az adatfeldolgozó adatkezelési tájékoztatója:
+https://www.hetzner.com/legal/privacy-policy
+
+Az Adatfeldolgozó az Adatkezelővel kötött szerződés alapján biztosítja a FyreMC.hu Minecraft játékszervereinek fizikai infrastruktúráját. Ennek során az Adatfeldolgozó a játékosok IP-címét, játékosnévét és a játékszerveren keletkező naplófájlokat kezeli a szerverüzemeltetéshez szükséges mértékben.
 
 SZÁMLÁZÁSSAL KAPCSOLATOS ADATFELDOLGOZÁS
 
@@ -167,7 +199,7 @@ Adatvédelmi rendelkezések a Sebestyén Ádám EV. partnereiről
 
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
-Az adatfeldolgozó székhelye: 5600 Békéscsaba, Pitypang utca 15.
+Az adatfeldolgozó székhelye: 1081 Budapest, Alföld utca 18. 2. em. 47. ajtó
 
 Kiegészítő érme csomagok üzemeltetője:
 Az adatfeldozó megnevezése: Berta Bianka EV.
@@ -253,7 +285,7 @@ ScreenShare (SS)
 
 (3) A szolgáltató a folyamatot az AnyDesk képernyőmegosztó programmal végzi. Amennyiben a felhasználó a csatlakozáshoz szükséges kódot megadja a FyreMC.hu részére és engedélyezi a kapcsolódást a szoftverben, azzal elfogadja és tudomásul vette az itt leírt tájékoztatót.
 
-(4) A felhasználó a ScreenShare előtt és a ScreenShare közben bármikor dönthet úgy, hogy megszakítja a folyamatot. (Ezt az egere mozgatásával és a „Folyamat befejezése” gomra kattintva azonnal megteheti) Ilyenkor azonban mivel nem sikerült megbizonyosodnunk arról, hogy a felhasználó nem használt semmilyen segédprogramot, a belső szabályzatunkban megadott időre megszakítjuk a szolgáltatásunkhoz való csatlakozásának jogát a felhasználónak.
+(4) A felhasználó a ScreenShare előtt és a ScreenShare közben bármikor dönthet úgy, hogy megszakítja a folyamatot. (Ezt az egere mozgatásával és a „Folyamat befejezése" gomra kattintva azonnal megteheti) Ilyenkor azonban mivel nem sikerült megbizonyosodnunk arról, hogy a felhasználó nem használt semmilyen segédprogramot, a belső szabályzatunkban megadott időre megszakítjuk a szolgáltatásunkhoz való csatlakozásának jogát a felhasználónak.
 
 (5) A hozzájárulás során a felhasználó kifejezetten engedélyt ad a FyreMC.hu üzemeltetői számára, hogy a számítógépére a ScreenShare tájékoztatóban felsorolt külső féltől származó szoftvereket telepítsen és futtasson. Ezek a szoftverek kizárólag a segédprogramok felderítésére szolgálnak, azonban az üzemeltető semmilyen formában nem tud felelősséget vállalni a külső féltől származó szoftverek által okozott károkért!
 
@@ -281,7 +313,7 @@ Külső hivatkozások. Külső, harmadik fél által üzemeltetett webhelyek vag
 
 Fizetések feldolgozása. A választott fizetési módtól és a vásárlás helyétől függően a fizetéssel kapcsolatos adatokat közvetlenül egy külső fél gyűjti a saját adatvédelmi szabályzata szerint.
 
-Közösségimédia-funkciók. A FyreMC.hu szolgáltatásainak felületei hozzáférést biztosítanak különböző közösségi oldalakhoz, ezzel könnyítve a tartalmak ottani megosztását (ilyen például a Facebook „Tetszik” gombja és más widgetek). Ezek a szolgáltatások információkat gyűjthetnek a FyreMC.hu szolgáltatásainak használatáról, és nyomkövetési technológiákat (például cookie-kat) alkalmazhatnak a megfelelő működés érdekében. A közösségi oldalakat működtető vállalatok a saját adatvédelmi szabályzatukat követik az adatok feldolgozása során.
+Közösségimédia-funkciók. A FyreMC.hu szolgáltatásainak felületei hozzáférést biztosítanak különböző közösségi oldalakhoz, ezzel könnyítve a tartalmak ottani megosztását (ilyen például a Facebook „Tetszik" gombja és más widgetek). Ezek a szolgáltatások információkat gyűjthetnek a FyreMC.hu szolgáltatásainak használatáról, és nyomkövetési technológiákat (például cookie-kat) alkalmazhatnak a megfelelő működés érdekében. A közösségi oldalakat működtető vállalatok a saját adatvédelmi szabályzatukat követik az adatok feldolgozása során.
 
 Külső felek nyomkövetési gyakorlatai. A FyreMC.hu szolgáltatásai cookie-kat, webjelzőket és más gyakori nyomkövetési technológiákat alkalmaznak, ezzel segítve a használatukkal kapcsolatos adatok gyűjtését és elemzését (lásd Automatikusan gyűjtött adatok). Külső felek (például elemzési szolgáltatók vagy hirdetési hálózatok) saját követési technológiát alkalmazhatnak a FyreMC.hu szolgáltatásaiban. Amennyiben így tesznek, ezeket az eszközöket a saját adatvédelmi szabályzatuknak megfelelően kell működtetniük.
 
@@ -298,12 +330,25 @@ Regisztrációkor ellenőrizzük születési dátum alapján az életkort és en
 
 Törvényes képviselő hozzájárulása szükséges cselekvőképtelen és korlátozottan cselekvőképes kiskorú személy nyilatkozatához, kivéve a mindennapi életben tömegesen előforduló regisztrációt célzó és különösebb megfontolást nem igénylő szolgáltatásrészeket.
 
-6. „NYOMKÖVETÉS TILTÁSA” (DO-NOT-TRACK) JELZÉSEK
+6. „NYOMKÖVETÉS TILTÁSA" (DO-NOT-TRACK) JELZÉSEK
    Szolgáltatásaink nem reagálnak az internetböngészők DNT-jelzéseire.
 
-Egyes új internetböngészők részét képezi a „Do Not Track” funkció. Ezt bekapcsolva a funkció jelzést küld a felkeresett szolgáltatásoknak, hogy a felhasználó semmilyen nyomkövetést nem kér. Ezek a szolgáltatások (vagy a külső felek által ott elhelyezett tartalmak) adatvédelmi szabályzatuktól függően továbbra is folytathatnak nyomkövetésként értelmezhető tevékenységet a felhasználó kérése ellenére.
+Egyes új internetböngészők részét képezi a „Do Not Track" funkció. Ezt bekapcsolva a funkció jelzést küld a felkeresett szolgáltatásoknak, hogy a felhasználó semmilyen nyomkövetést nem kér. Ezek a szolgáltatások (vagy a külső felek által ott elhelyezett tartalmak) adatvédelmi szabályzatuktól függően továbbra is folytathatnak nyomkövetésként értelmezhető tevékenységet a felhasználó kérése ellenére.
 
 Mivel egyelőre nincs egységes álláspont a DNT-jelzések értelmezésére, a FyreMC.hu szolgáltatásai jelenleg egyáltalán nem reagálnak a DNT-jelzésekre. Az adatvédelmi kérdésekben kínált döntési lehetőségekről lásd az alább található A felhasználó döntései és lehetőségei című pontot.
+
+## Az adatok megőrzési ideje
+
+| Adatkategória | Megőrzési idő |
+|---|---|
+| Regisztrációs adatok (felhasználónév, e-mail, jelszó hash) | A felhasználói fiók törléséig |
+| Számlázási adatok (név, cím, tranzakció adatok) | 8 év (Számv. tv. 169. § (2) bek.) |
+| Naplófájlok (IP-cím, böngészőadatok) | Legfeljebb 1 év |
+| ScreenShare felvételek | Legfeljebb 6 hónap |
+| Cookie-k | A süti tájékoztatóban megadott lejárati időkig |
+| Hírlevél-feliratkozási adatok | A leiratkozásig |
+
+Az adatok megőrzési idejének lejártát követően az Adatkezelő az adatokat haladéktalanul, visszaállíthatatlan módon törli.
 
 7. A FELHASZNÁLÓ DÖNTÉSEI ÉS LEHETŐSÉGEI
 
@@ -316,7 +361,7 @@ A megosztott személyes adatok körének korlátozása. A legtöbb begyűjtött 
 Hozzáférés a személyes adatokhoz, illetve azok törlése.
 Amennyiben a felhasználónak fenntartásai vannak személyes adatai kezelésével kapcsolatban, vagy ha szeretné frissíteni vagy törölni azokat, lépjen velünk kapcsolatba. A személyes adatokhoz való hozzáféréssel vagy azok törlésével kapcsolatos megkeresésekre 30 napon belül válaszolunk. Előfordulhat, hogy egyes esetekben nem áll módunkban eltávolítani a személyes adatokat, de ennek okáról mindig tájékoztatjuk a felhasználót. Fontos: a személyes adatok törlése bizonyos esetekben a fiók törlését vonhatja maga után.
 
-Kommunikációs beállítások frissítése. Bár a játékosok lehetőséget kapnak arra, hogy értesítést kapjanak a frissítésekről és a FyreMC.hu promóciós ajánlatairól, ezek a beállítások bármikor módosíthatók. Ezek letiltásához egyszerűen a promóciós e-mailekben található „Leiratkozás” gombra kell kattintani, és követni a kapott utasításokat. Ezek a döntések nem érintik a kötelező, a FyreMC.hu szolgáltatásaival kapcsolatos üzeneteket, például a fontos fiókkal kapcsolatos értesítéseket.
+Kommunikációs beállítások frissítése. Bár a játékosok lehetőséget kapnak arra, hogy értesítést kapjanak a frissítésekről és a FyreMC.hu promóciós ajánlatairól, ezek a beállítások bármikor módosíthatók. Ezek letiltásához egyszerűen a promóciós e-mailekben található „Leiratkozás" gombra kell kattintani, és követni a kapott utasításokat. Ezek a döntések nem érintik a kötelező, a FyreMC.hu szolgáltatásaival kapcsolatos üzeneteket, például a fontos fiókkal kapcsolatos értesítéseket.
 
 A böngésző beállításainak módosítása. Számos internetböngésző lehetővé teszi a cookie-k elutasítását, kezelését és törlését. A böngésző beállításainak módosításával más nyomkövetési technológiák, például a HTML5 kezelése is lehetséges (lásd: Automatikusan gyűjtött adatok).
 
@@ -336,11 +381,21 @@ biztonságát, és nem szolgálhatunk biztosítékkal arra sem, hogy meg tudjuk 
 
 A felhasználó döntése, hogy megosztja-e velünk személyes adatait. Ha megteszi, elfogadja, hogy a saját felelősségére cselekszik.
 
+## Adatvédelmi incidens kezelése
+
+**(1)** Az Adatkezelő az adatvédelmi incidenst indokolatlan késedelem nélkül, de legkésőbb az incidens tudomására jutásától számított **72 órán belül** bejelenti a Nemzeti Adatvédelmi és Információszabadság Hatóságnak (NAIH), kivéve, ha az adatvédelmi incidens valószínűsíthetően nem jár kockázattal az érintettek jogaira és szabadságaira nézve (GDPR 33. cikk).
+
+**(2)** Ha az adatvédelmi incidens valószínűsíthetően **magas kockázattal** jár az érintettek jogaira és szabadságaira nézve, az Adatkezelő indokolatlan késedelem nélkül **tájékoztatja az érintetteket** is (GDPR 34. cikk).
+
+**(3)** Az Adatkezelő az adatvédelmi incidensekről nyilvántartást vezet.
+
+**(4)** Adatvédelmi incidensgyanút az email@fyremc.hu e-mail címen lehet jelenteni.
+
 9. FRISSÍTÉSEK ÉS MÓDOSÍTÁSOK
 
 Ezt a szabályzatot rendszeresen frissítjük, hogy felhasználóink tisztában legyenek azzal, miként változik a játékosadatok kezelése.
 
-Időről időre frissíthetjük az adatvédelmi szabályzatot, hogy az igazodjon az alkalmazott technológiákban, a jogszabályokban vagy az üzleti tevékenységeinkben bekövetkező változásokhoz, illetve ha azt bármely okból szükségesnek vagy megfelelőnek ítéljük. Változtatás esetén módosítjuk az „Utolsó frissítés” dátumát a szabályzat végén, és közzétesszük a dokumentumot a FyreMC.hu szolgáltatásaiban. Amennyiben lényegi változás történik a szabályzatban vagy a személyes adatok kezelésében, arról külön is értesítjük a felhasználókat (például jól látható bejegyzést helyezünk el a FyreMC.hu szolgáltatásaiban a változások életbe lépése előtt, vagy közvetlenül értesítjük a felhasználókat).
+Időről időre frissíthetjük az adatvédelmi szabályzatot, hogy az igazodjon az alkalmazott technológiákban, a jogszabályokban vagy az üzleti tevékenységeinkben bekövetkező változásokhoz, illetve ha azt bármely okból szükségesnek vagy megfelelőnek ítéljük. Változtatás esetén módosítjuk az „Utolsó frissítés" dátumát a szabályzat végén, és közzétesszük a dokumentumot a FyreMC.hu szolgáltatásaiban. Amennyiben lényegi változás történik a szabályzatban vagy a személyes adatok kezelésében, arról külön is értesítjük a felhasználókat (például jól látható bejegyzést helyezünk el a FyreMC.hu szolgáltatásaiban a változások életbe lépése előtt, vagy közvetlenül értesítjük a felhasználókat).
 
 Javasoljuk ennek az oldalnak az időszakonkénti látogatását, és a szabályzaton a legutóbbi látogatás óta végrehajtott módosításokat áttekintését. Ezáltal részletesen megismerhető a FyreMC.hu és a felhasználó között fennálló viszony, beleértve az adatok feldolgozásának módját.
 
@@ -372,35 +427,27 @@ Adatbiztonsági intézkedések
 
 Az Adatkezelő (FyreMC.hu) kijelenti, hogy megfelelő biztonsági intézkedéseket hozott annak érdekében, hogy a személyes adatok védje a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés vagy megsemmisítés, valamint a véletlen megsemmisülés és sérülés, továbbá az alkalmazott technika megváltozásából fakadó hozzáférhetetlenné válás ellen.
 
-Az adatkezelés során Önt megillető jogok
+## Az érintett jogai (GDPR 15–22. cikk)
 
-Az adatkezelés időtartamán belül Önt megilleti:
+A GDPR alapján az érintettet az alábbi jogok illetik meg. A jogok gyakorlásához kérjük, vegye fel a kapcsolatot az Adatkezelővel az email@fyremc.hu e-mail címen.
 
-a tájékoztatáshoz való jog,
+**Tájékoztatáshoz való jog (GDPR 13–14. cikk)** – Az érintett jogosult arra, hogy az adatkezelésre vonatkozó valamennyi körülményről tömör, átlátható, közérthető és könnyen hozzáférhető formában tájékoztatást kapjon.
 
-az adatok helyesbítéséhez való jog,
+**Hozzáférési jog (GDPR 15. cikk)** – Az érintett jogosult arra, hogy az Adatkezelőtől visszajelzést kapjon arra vonatkozóan, hogy személyes adatainak kezelése folyamatban van-e, és ha igen, jogosult a személyes adatokhoz és az adatkezelésre vonatkozó információkhoz hozzáférni.
 
-az adatok törléséhez való jog,
+**Helyesbítéshez való jog (GDPR 16. cikk)** – Az érintett jogosult arra, hogy kérésére az Adatkezelő indokolatlan késedelem nélkül helyesbítse a rá vonatkozó pontatlan személyes adatokat.
 
-az adatok zárolásához való jog,
+**Törléshez való jog / „Az elfeledtetéshez való jog" (GDPR 17. cikk)** – Az érintett jogosult arra, hogy kérésére az Adatkezelő indokolatlan késedelem nélkül törölje a rá vonatkozó személyes adatokat, az Adatkezelő pedig köteles a személyes adatokat indokolatlan késedelem nélkül törölni, ha az adatkezelésnek nincs más jogalapja.
 
-a tiltakozás joga.
+**Az adatkezelés korlátozásához való jog (GDPR 18. cikk)** – Az érintett jogosult arra, hogy kérésére az Adatkezelő korlátozza az adatkezelést, ha vitatja a személyes adatok pontosságát, az adatkezelés jogellenes, vagy az Adatkezelőnek már nincs szüksége a személyes adatokra.
 
-Ön az adatkezelés időtartamán belül tájékoztatást kérhet az Adatkezelőtől a személyes adatai kezeléséről. Az Adatkezelő a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 25 napon belül írásban, közérthető formában tájékoztatja Önt a kezelt adatokról, az adatkezelés céljáról, jogalapjáról, időtartamáról, továbbá – amennyiben az adatok továbbítására is sor került – arról, hogy kik és milyen célból kapják vagy kapták meg az adatokat.
+**Adathordozhatósághoz való jog (GDPR 20. cikk)** – Az érintett jogosult arra, hogy a rá vonatkozó, általa az Adatkezelő rendelkezésére bocsátott személyes adatokat tagolt, széles körben használt, géppel olvasható formátumban megkapja, és ezeket az adatokat egy másik adatkezelőnek továbbítsa.
 
-Ön az adatkezelés időtartamán belül kérheti, hogy az Adatkezelő a személyes adatait helyesbítse. A kérésének az Adatkezelő legkésőbb 15 napon belül eleget tesz.
+**Tiltakozáshoz való jog (GDPR 21. cikk)** – Az érintett jogosult arra, hogy a saját helyzetével kapcsolatos okokból bármikor tiltakozzon személyes adatainak jogos érdeken alapuló kezelése ellen.
 
-Önnek lehetősége van a személyes adatainak törlését kérni, amelynek az Adatkezelő legkésőbb 15 napon belül eleget tesz. A törlés joga nem terjed ki arra, ha az Adatkezelőt törvény kötelezi az adatok további tárolására, illetve arra az esetre, sem ha az Infotv. 6. § (5) bekezdésével összhangban az Adatkezelő jogosult a személyes adatok további kezelésére (így például a számlázással összefüggésben).
+**Automatizált döntéshozatallal szembeni védelem (GDPR 22. cikk)** – Az Adatkezelő nem alkalmaz automatizált döntéshozatalt vagy profilalkotást az érintettekre nézve joghatással bíró döntések meghozatalához.
 
-Ön kérheti, hogy az Adatkezelő zárolja a személyes adatot, ha az adatok végleges törlés sértené az érintett jogos érdekeit. Az így zárolt személyes adat kizárólag addig kezelhető, ameddig fennáll az az a cél, amely a személyes adat törlését kizárta.
-
-Ön tiltakozhat személyes adatának kezelése ellen,
-
-ha a személyes adatok kezelése vagy továbbítása kizárólag az Adatkezelőre vonatkozó jogi kötelezettség teljesítéséhez vagy az Adatkezelő, adatátvevő vagy harmadik személy jogos érdekének érvényesítéséhez szükséges, kivéve kötelező adatkezelés esetén és az Infotv. 6. § (5) bekezdésében foglalt esetben;
-
-ha a személyes adat felhasználása vagy továbbítása – az Ön hozzájárulása nélkül – közvetlen üzletszerzés, közvélemény-kutatás vagy tudományos kutatás céljára történik.
-
-Az Adatkezelő a tiltakozást a kérelem benyújtásától számított legrövidebb időn belül, de legfeljebb 15 napon belül megvizsgálja, annak megalapozottsága kérdésében döntést hoz, és döntéséről Önt írásban tájékoztatja. Ha az adatkezelő az érintett helyesbítés, zárolás vagy törlés iránti kérelmét nem teljesíti, a kérelem kézhezvételét követő 25 napon belül írásban vagy az érintett hozzájárulásával elektronikus úton közli a helyesbítés, zárolás vagy törlés iránti kérelem elutasításának ténybeli és jogi indokait.
+**A jogok gyakorlásának menete:** Az Adatkezelő az érintett kérelmét indokolatlan késedelem nélkül, de legkésőbb **1 hónapon belül** teljesíti (GDPR 12. cikk (3) bek.). Szükség esetén ez az időszak további 2 hónappal meghosszabbítható, amelyről az Adatkezelő tájékoztatja az érintettet.
 
 Jogorvoslati lehetőségek
 
@@ -408,12 +455,8 @@ Amennyiben Ön szerint az Adatkezelő megsértette valamely, az adatkezelésre v
 
 Tájékoztatjuk emellett arról is, hogy az adatkezelésre vonatkozó törvényi rendelkezések megsértése esetén, vagy ha az Adatkezelő nem teljesítette valamely kérelmét, akkor az Adatkezelővel szemben bírósághoz fordulhat.
 
-Adatvédelmi nyilvántartásba történő bejelentkezés
-
-Az Infotv. rendelkezései értelmében az Adatkezelőnek bizonyos adatkezeléseit be kell jelentenie az adatvédelmi nyilvántartásba.
-
 Adatkezelési tájékoztató módosítása
 
 Az Adatkezelő fenntartja a jogot, hogy jelen adatkezelési tájékoztatót módosítsa. A honlap módosítás hatálybalépését követő használatával elfogadja a módosított adatkezelési tájékoztatót.
 
-Utolsó módosítás: 2026.03.18.
+Utolsó módosítás: 2026.04.15.

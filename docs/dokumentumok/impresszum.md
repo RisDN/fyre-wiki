@@ -24,11 +24,11 @@ description: A szerver tulajdonosának és üzemeltetőjének hivatalos adatai �
 
 **Virtuális játék kiegészítő csomagok üzemeltetője:**  
 Név: Papasvili György Armen EV.  
-Székhely / levelezési cím: 5600 Békéscsaba, Pitypang utca 15.  
-Nyilvántartásba bejegyző hatóság: NAV Békés Vármegyei Adó- és Vámigazgatósága  
+Székhely / levelezési cím: 1081 Budapest, Alföld utca 18. 2. em. 47. ajtó  
+Nyilvántartásba bejegyző hatóság: NAV Budapest Fővárosi Adó- és Vámigazgatósága  
 Nyilvántartási szám: 57334558  
-Adószám: 59315784-1-24  
-Kamara: Békés Megyei Kereskedelmi és Iparkamara
+Adószám: 59315784-1-42  
+Kamara: Budapesti Kereskedelmi és Iparkamara
 
 **Kiegészítő érme csomagok szolgáltatója:**  
 Név: Berta Bianka EV.  
