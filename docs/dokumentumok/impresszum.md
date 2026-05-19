@@ -38,3 +38,10 @@ Nyilvántartási szám: 60009782
 Adószám: 90686621-1-42  
 Kamara: Budapest Fővárosi Kereskedelmi és Iparkamara
 
+**Digitális Játék Érme Csomagok:**  
+Név: Pataki Áron Benedek EV. 
+Székhely / levelezési cím: 1191 BUDAPEST 19 SZÉCHENYI UTCA 18, 18 ép. 27 lpcsh. 9 em. 27 ajtó  
+Nyilvántartásba bejegyző hatóság: NAV Budapest Fővárosi Adó- és Vámigazgatósága  
+Nyilvántartási szám: 62277958  
+Adószám: 92035258-1-43  
+Kamara: Budapest Fővárosi Kereskedelmi és Iparkamara

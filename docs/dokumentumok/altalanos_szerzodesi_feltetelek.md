@@ -5,7 +5,7 @@ description: A szerver használatának jogi feltételei és a felhasználói kö
 
 # 📋 FyreMC.hu Általános Szerződési Feltételei
 
-**Hatályba lépésének időpontja:** 2026. év április hó 15. napján
+**Hatályba lépésének időpontja:** 2026. év május hó 19. napján
 
 Amely létrejött, egyrészről a
 
@@ -28,7 +28,14 @@ Adószám: 90686621-1-42\
 Nyilvántartási szám: 60009782\
 Székhely: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
 
-mint **Kiegészítő érme csomagok szolgáltatója**.
+mint **Kiegészítő érme csomagok szolgáltatója**, és
+
+**Pataki Áron Benedek EV.**\
+Adószám: 92035258-1-43\
+Nyilvántartási szám: 62277958\
+Székhely: MAGYARORSZÁG, 1191 BUDAPEST 19 SZÉCHENYI UTCA 18, 18 ép. 27 lpcsh. 9 em. 27 ajtó
+
+mint **Digitális Játék Érme Csomagok szolgáltatója**.
 
 másrészről a szolgáltatásainkba (továbbiakban FyreMC.hu) regisztrált vagy regisztrálni kívánó **Fél**,
 
@@ -251,6 +258,8 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 7.9.1 Az account.fyremc.hu weboldalon vásárolható „**Kiegészítő érme csomagok**" értékesítését és üzemeltetését **Berta Bianka EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
 **7.9.2** Az account.fyremc.hu weboldalon vásárolható „**Virtuális játék kiegészítő csomagok valamint virtuális prémium rangok**" értékesítését és üzemeltetését **Papasvili György Armen EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
+
+**7.9.3** Az account.fyremc.hu weboldalon vásárolható „**Digitális Játék Érme Csomagok**" értékesítését és üzemeltetését **Pataki Áron Benedek EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
 ## 8. Felelősségkorlátozás
 
