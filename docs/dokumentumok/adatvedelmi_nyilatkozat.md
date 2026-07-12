@@ -5,7 +5,7 @@ description: Tájékoztatás arról, hogyan kezeljük és védjük a felhasznál
 
 # 🔏 Adatvédelmi nyilatkozat
 
-Adatvédelmi nyilatkozat (Hatályos: 2026.05.19.)
+Adatvédelmi nyilatkozat (Hatályos: 2026.07.12.)
 Az adatkezelő megnevezése:
 E tájékoztatás kiadója, egyben az Adatkezelő:
 Cégnév: Sebestyén Ádám EV.
@@ -22,11 +22,17 @@ Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca
 Nyilvántartási szám: 60009782
 Adószám: 90686621-1-42
 
-Digitális Játék Érme Csomagok üzemeltetője:
+Digitális játék érme csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Pataki Áron Benedek EV.
 Az adatfeldolgozó székhelye: MAGYARORSZÁG, 1191 BUDAPEST 19 SZÉCHENYI UTCA 18, 18 ép. 27 lpcsh. 9 em. 27 ajtó
 Nyilvántartási szám: 62277958
 Adószám: 92035258-1-43
+
+Digitális kupon kód (azonnali aktiválás) üzemeltetője:
+Az adatfeldolgozó megnevezése: Sebestyén Balázs EV.
+Az adatfeldolgozó székhelye: MAGYARORSZÁG, 2118 DÁNY FŐ UTCA 87
+Nyilvántartási szám: 62498243
+Adószám: 92169830-1-33
 
 Virtuális játék kiegészítő csomagok üzemeltetője:
 Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
@@ -211,9 +217,13 @@ Kiegészítő érme csomagok üzemeltetője:
 Az adatfeldozó megnevezése: Berta Bianka EV.
 Az adatfeldolgozó székhelye: Magyarország, 1081 Budapest 8 ker. Alföldi utca 18.
 
-Kiegészítő érme csomagok üzemeltetője:
+Digitális játék érme csomagok üzemeltetője:
 Az adatfeldozó megnevezése: Pataki Áron Benedek EV.
 Az adatfeldolgozó székhelye: MAGYARORSZÁG, 1191 BUDAPEST 19 SZÉCHENYI UTCA 18, 18 ép. 27 lpcsh. 9 em. 27 ajtó
+
+Digitális kupon kód (azonnali aktiválás) üzemeltetője:
+Az adatfeldozó megnevezése: Sebestyén Balázs EV.
+Az adatfeldolgozó székhelye: MAGYARORSZÁG, 2118 DÁNY FŐ UTCA 87
 
 Az Adatfeldolgozóval (Sebestyén Ádám EV.) kötött szerződés alapján a Partnerek az online játékhoz kapcsolódó egyes elemek, érmék, kuponok és kiegészítők üzemeltetését és értékesítését végzi. Ennek során az Adatfeldolgozó partnerek az érintett számlázási nevét, e-mail címét és számlázási címét, a rendelés számát és időpontját a polgári jogi elévülési időn belül kezeli. Jelen Adatkezelési tájékoztatóban foglaltak a Sebestyén Ádám EV. partnereire is teljeskörűen értendő.
 
@@ -469,4 +479,4 @@ Adatkezelési tájékoztató módosítása
 
 Az Adatkezelő fenntartja a jogot, hogy jelen adatkezelési tájékoztatót módosítsa. A honlap módosítás hatálybalépését követő használatával elfogadja a módosított adatkezelési tájékoztatót.
 
-Utolsó módosítás: 2026.05.19.
+Utolsó módosítás: 2026.07.12.

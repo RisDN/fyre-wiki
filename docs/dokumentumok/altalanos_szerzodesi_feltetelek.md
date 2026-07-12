@@ -5,7 +5,7 @@ description: A szerver használatának jogi feltételei és a felhasználói kö
 
 # 📋 FyreMC.hu Általános Szerződési Feltételei
 
-**Hatályba lépésének időpontja:** 2026. év május hó 19. napján
+**Hatályba lépésének időpontja:** 2026. év július hó 12. napján
 
 Amely létrejött, egyrészről a
 
@@ -35,7 +35,14 @@ Adószám: 92035258-1-43\
 Nyilvántartási szám: 62277958\
 Székhely: MAGYARORSZÁG, 1191 BUDAPEST 19 SZÉCHENYI UTCA 18, 18 ép. 27 lpcsh. 9 em. 27 ajtó
 
-mint **Digitális Játék Érme Csomagok szolgáltatója**.
+mint **Digitális játék érme csomagok szolgáltatója**.
+
+**Sebestyén Balázs EV.**\
+Adószám: 92169830-1-33\
+Nyilvántartási szám: 62498243\
+Székhely: MAGYARORSZÁG, 2118 DÁNY FŐ UTCA 87
+
+mint **Digitális kupon kód (azonnali aktiválás) szolgáltatója**.
 
 másrészről a szolgáltatásainkba (továbbiakban FyreMC.hu) regisztrált vagy regisztrálni kívánó **Fél**,
 
@@ -260,6 +267,8 @@ Vonatkozik ez minden olyan eljárásra, hasonló cselekvésre vagy tevékenység
 **7.9.2** Az account.fyremc.hu weboldalon vásárolható „**Virtuális játék kiegészítő csomagok valamint virtuális prémium rangok**" értékesítését és üzemeltetését **Papasvili György Armen EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
 **7.9.3** Az account.fyremc.hu weboldalon vásárolható „**Digitális Játék Érme Csomagok**" értékesítését és üzemeltetését **Pataki Áron Benedek EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
+
+**7.9.4** Az account.fyremc.hu weboldalon vásárolható „**Digitális kupon kód (azonnali aktiválás)**" értékesítését és üzemeltetését **Sebestyén Balázs EV.** végzi. A vásárlás közvetlenül az oldalról indítható, amely a Stripe fizetési felületére irányít át. A vásárlással kapcsolatban az itt leírt általános szabályok érvényesek, a rangok tulajdonságai a FyreMC játék keretszoftverben elérhető, melyet a Sebestyén Ádám EV. üzemeltet. Visszatérítéssel és egyéb kérdésével kérem forduljon központi ügyfélszolgálatunkhoz e-mail formátumban.
 
 ## 8. Felelősségkorlátozás
 
