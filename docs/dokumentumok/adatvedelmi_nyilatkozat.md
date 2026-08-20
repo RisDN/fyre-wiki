@@ -5,7 +5,7 @@ description: Tájékoztatás arról, hogyan kezeljük és védjük a felhasznál
 
 # 🔏 Adatvédelmi nyilatkozat
 
-Adatvédelmi nyilatkozat (Hatályos: 2026.07.12.)
+Adatvédelmi nyilatkozat (Hatályos: 2026.08.20.)
 Az adatkezelő megnevezése:
 E tájékoztatás kiadója, egyben az Adatkezelő:
 Cégnév: Sebestyén Ádám EV.
@@ -39,6 +39,12 @@ Az adatfeldolgozó megnevezése: Papasvili György Armen EV.
 Az adatfeldolgozó székhelye: 1081 Budapest, Alföld utca 18. 2. em. 47. ajtó
 Nyilvántartási szám: 57334558
 Adószám: 59315784-1-42
+
+Játék-kiskereskedelem üzemeltetője:
+Az adatfeldolgozó megnevezése: Kókai-Szabó Bálint EV.
+Az adatfeldolgozó székhelye: MAGYARORSZÁG, 4125 POCSAJ ÁRPÁD UTCA 109
+Nyilvántartási szám: 58129405
+Adószám: 41890145-1-29
 
 Adatvédelmi szabályzat:
 
@@ -224,6 +230,11 @@ Az adatfeldolgozó székhelye: MAGYARORSZÁG, 1191 BUDAPEST 19 SZÉCHENYI UTCA 1
 Digitális kupon kód (azonnali aktiválás) üzemeltetője:
 Az adatfeldozó megnevezése: Sebestyén Balázs EV.
 Az adatfeldolgozó székhelye: MAGYARORSZÁG, 2118 DÁNY FŐ UTCA 87
+
+Játék-kiskereskedelem üzemeltetője:
+Az adatfeldozó megnevezése: Kókai-Szabó Bálint EV.
+Az adatfeldolgozó székhelye: MAGYARORSZÁG, 4125 POCSAJ ÁRPÁD UTCA 109
+
 
 Az Adatfeldolgozóval (Sebestyén Ádám EV.) kötött szerződés alapján a Partnerek az online játékhoz kapcsolódó egyes elemek, érmék, kuponok és kiegészítők üzemeltetését és értékesítését végzi. Ennek során az Adatfeldolgozó partnerek az érintett számlázási nevét, e-mail címét és számlázási címét, a rendelés számát és időpontját a polgári jogi elévülési időn belül kezeli. Jelen Adatkezelési tájékoztatóban foglaltak a Sebestyén Ádám EV. partnereire is teljeskörűen értendő.
 
@@ -479,4 +490,4 @@ Adatkezelési tájékoztató módosítása
 
 Az Adatkezelő fenntartja a jogot, hogy jelen adatkezelési tájékoztatót módosítsa. A honlap módosítás hatálybalépését követő használatával elfogadja a módosított adatkezelési tájékoztatót.
 
-Utolsó módosítás: 2026.07.12.
+Utolsó módosítás: 2026.08.20.

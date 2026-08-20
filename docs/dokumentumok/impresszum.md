@@ -53,3 +53,12 @@ Nyilvántartásba bejegyző hatóság: NAV Budapest Fővárosi Adó- és Vámiga
 Nyilvántartási szám: 62498243  
 Adószám: 92169830-1-33  
 Kamara: Budapest Fővárosi Kereskedelmi és Iparkamara
+
+**Játék-kiskereskedelem szolgáltatója:**  
+Név: Kókai-Szabó Bálint EV.
+Székhely / levelezési cím: MAGYARORSZÁG, 4125 POCSAJ ÁRPÁD UTCA 109. 
+Nyilvántartásba bejegyző hatóság: NAV Hajdú-Bihar Vármegyei Adó- és Vámigazgatósága. 
+Nyilvántartási szám: 58129405  
+Adószám: 41890145-1-29  
+Kamara: Hajdú-Bihar Vármegyei Kereskedelmi és Iparkamara
+
